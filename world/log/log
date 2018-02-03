@@ -1569,3 +1569,4 @@ d/city/silao.c line 61: Warning: Value of conditional expression is unused
 d/city/silao.c line 62: Warning: Value of conditional expression is unused
 u/valen/guestroom.c line 21: parse error
 u/valen/guestroom.c line 21: parse error
+d/city/obj/jia.c line 147: Invalid argument types to '+' ( string vs object )

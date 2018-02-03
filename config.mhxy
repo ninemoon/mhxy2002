@@ -18,10 +18,10 @@ address server ip : localhost
 address server port : 8888
  
 # mudlib的绝对路径
-mudlib directory : d:/gwbnroot/game/mhxy/world
+mudlib directory : d:/app/mhxy2002/world
  
 # Config文件和Driver的绝对路径
-binary directory : d:/gwbnroot/game/mhxy
+binary directory : d:/app/mhxy2002
  
 # debug.log 和作者/区域纪录存放位置
 log directory : /log

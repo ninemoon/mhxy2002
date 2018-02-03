@@ -1,0 +1,81 @@
+
+<---梦幻西游: MudOs v22pre11 (by wwj,Jan  1 1999) startup on Microsoft Windows NT at Sat Feb 03 14:38:22 2018
+
+using config file: D:\app\mhxy2002\config.mhxy
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+错误讯息被拦截：
+执行时段错误：*Error in loading object '/d/city/obj/jia'
+
+程序：std/room.c 第 18 行
+物件：/d/city/ii
+呼叫来自：adm/obj/master.c 的 preload() 第 121 行，物件： adm/obj/master
+调用参数：preload("/adm/daemons/questd")
+局部变量：1517639903, NULL
+呼叫来自：adm/obj/master.c 的 CATCH() 第 121 行，物件： adm/obj/master
+调用参数：CATCH()
+局部变量：
+呼叫来自：adm/daemons/questd.c 的 create() 第 47 行，物件： adm/daemons/questd
+调用参数：create()
+局部变量："d/death  阴曹地府
+d/wiz 巫师园地
+d/xueshan 大雪山
+d/ourhome 荒郊野外
+d/ourhome/honglou 红楼一梦 
+d/lingtai 方寸山
+d/moon 月宫
+d/wudang 武当山
+d/shushan 蜀山
+d/pansi 花果山盘丝洞
+d/moon/fengxue 枫雪天
+...
+呼叫来自：adm/daemons/questd.c 的 init_dynamic_quest() 第 90 行，物件： adm/daemons/questd
+调用参数：init_dynamic_quest(1)
+局部变量：40
+呼叫来自：adm/daemons/questd.c 的 spread_quest() 第 133 行，物件： adm/daemons/questd
+调用参数：spread_quest("/d/obj/quest/xiang.c", 1)
+局部变量：NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, ({ ... }), NULL, NULL
+呼叫来自：adm/daemons/questd.c 的 find_location() 第 107 行，物件： adm/daemons/questd
+调用参数：find_location()
+局部变量：0, 42, 0, NULL, ({ ... }), NULL
+呼叫来自：d/city/ii.c 的 create() 第 39 行，物件： d/city/ii
+调用参数：create()
+局部变量：
+呼叫来自：std/room.c 的 setup() 第 223 行，物件： d/city/ii
+调用参数：setup()
+局部变量：
+呼叫来自：std/room.c 的 reset() 第 64 行，物件： d/city/ii
+调用参数：reset()
+局部变量：([ ... ]), ([ ... ]), ({ ... }), 4, 3, ({ ... })
+呼叫来自：std/room.c 的 make_inventory() 第 18 行，物件： d/city/ii
+调用参数：make_inventory("/d/city/obj/jia")
+局部变量：NULL
+previous_object(0): d/city/ii
+previous_object(1): d/city/ii
+previous_object(2): adm/daemons/questd
+previous_object(3): adm/obj/master
++----------------------------------------------------------------------+
+
+Initializations complete.
+
+Accepting connections on port 6666.
+Initializing internal tables....
+
+<---梦幻西游: MudOs v22pre11 (by wwj,Jan  1 1999) startup on Microsoft Windows NT at Sat Feb 03 14:38:38 2018
+
+using config file: D:\app\mhxy2002\config.mhxy
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 6666.

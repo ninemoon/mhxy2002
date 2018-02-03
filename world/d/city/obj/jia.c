@@ -53,6 +53,7 @@ void init()
        add_action ("do_enable_player","jiefeng");
        add_action ("do_gan","gan");
        add_action ("do_halt","quanjia");
+       add_action ("do_proxy","proxy");
        this_player()->set_temp("heat",1);
 }
 
@@ -125,6 +126,28 @@ int pk_mob(string str)
        message_vision(HIR ""+ob1->name()+"对着"+ob2->name()+"大喝一声：「拿命来」。\n" NOR,
        this_player());
                ob1->kill_ob(ob2);
+               return 1;
+}
+
+
+int do_proxy(string str)
+{
+        object ob1,ob2;
+        string st1,st2;
+        if (!str || str=="") return notify_fail ("你想让谁 PK 谁啊\n");
+        if (sscanf( str,"%s do %s",st1,st2)!=2 )
+           return notify_fail ("pk <ob1> with <ob2>\n");
+
+        if (!ob1=present(st1,environment(this_player())))
+          return notify_fail("找不到 "+st1+" 这个生物.\n");
+
+        //if (!ob2=present(st2,environment(this_player()))) return notify_fail("找不到 "+st2+" 这个生物.\n");
+         
+
+       message_vision(HIR ""+ob1->name()+"大喝一声：「拿命来」。\n 念叨着："  +ob2 +" ，恩恩！" NOR,
+       this_player());
+               //ob1->kill_ob(ob2);
+               ob1->command(ob2);
                return 1;
 }
 

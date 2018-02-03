@@ -1,0 +1,2 @@
+start mudos config.cfg
+

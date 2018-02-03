@@ -1,0 +1,2173 @@
+³õÊ¼»¯ÄÚ²¿½á¹¹£¬ÏÖÔÚ¿ªÊ¼........
+-------------------------------------------------------------------------
+Î÷ÓÎ¼Ç   (MudOS v21.7) starting up on stuf! - Fri Aug 28 03:03:32 1998
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+adm/obj/simul_efun.c line 1: Warning: Unknown #pragma, ignored.
+]simul_efun loaded successfully.
+
+ÕıÔÚ×°ÈëÔ¤µ÷ÓÃµÄÀàÎÄ¼ş  ...
+´íÎóÑ¶Ï¢±»À¹½Ø£º
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/adm/daemons/network/dns_master'
+
+³ÌĞò£ºadm/obj/master.c µÚ 121 ĞĞ
+Îï¼ş£º/adm/obj/master
+ºô½ĞÀ´×Ô£ºadm/obj/master.c µÄ preload() µÚ 121 ĞĞ£¬Îï¼ş£º adm/obj/master
+µ÷ÓÃ²ÎÊı£ºpreload("/adm/daemons/network/dns_master")
+¾Ö²¿±äÁ¿£º904244612, NULL
+ºô½ĞÀ´×Ô£ºadm/obj/master.c µÄ CATCH() µÚ 121 ĞĞ£¬Îï¼ş£º adm/obj/master
+µ÷ÓÃ²ÎÊı£ºCATCH()
+¾Ö²¿±äÁ¿£º
+previous_object(0): adm/obj/master
++----------------------------------------------------------------------+
+
+´íÎóÑ¶Ï¢±»À¹½Ø£º
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/adm/daemons/ftpd'
+
+³ÌĞò£ºadm/obj/master.c µÚ 121 ĞĞ
+Îï¼ş£º/adm/obj/master
+ºô½ĞÀ´×Ô£ºadm/obj/master.c µÄ preload() µÚ 121 ĞĞ£¬Îï¼ş£º adm/obj/master
+µ÷ÓÃ²ÎÊı£ºpreload("/adm/daemons/ftpd")
+¾Ö²¿±äÁ¿£º904244612, NULL
+ºô½ĞÀ´×Ô£ºadm/obj/master.c µÄ CATCH() µÚ 121 ĞĞ£¬Îï¼ş£º adm/obj/master
+µ÷ÓÃ²ÎÊı£ºCATCH()
+¾Ö²¿±äÁ¿£º
+previous_object(0): adm/obj/master
++----------------------------------------------------------------------+
+
+³õÊ¼»¯MudOSÏµÍ³³É¹¦£¡£¡ .
+
+¿É½ÓÊÜµÄ¶Ë¿ÚÁ¬½ÓÎª±¾»ú¶Ë¿Ú£º  6666.
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/adm/daemons/network/dns_master'
+
+³ÌĞò£ºadm/daemons/logind.c µÚ 122 ĞĞ
+Îï¼ş£º/adm/daemons/logind
+ºô½ĞÀ´×Ô£º<function> µÄ <function>() µÚ 0 ĞĞ£¬Îï¼ş£º adm/daemons/logind
+µ÷ÓÃ²ÎÊı£º<function>()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºadm/daemons/logind.c µÄ encoding() µÚ 122 ĞĞ£¬Îï¼ş£º adm/daemons/logind
+µ÷ÓÃ²ÎÊı£ºencoding("g")
+¾Ö²¿±äÁ¿£ºNULL, NULL, NULL, NULL, NULL, NULL, "127.0.0.1", "127.0.0.1", NULL, 0
+this_player: obj/login#0
+previous_object(0): adm/daemons/logind
++----------------------------------------------------------------------+
+
+current_interactive is obj/login#0
+´íÎóÑ¶Ï¢±»À¹½Ø£º
+Ö´ĞĞÊ±¶Î´íÎó£º*restore_object(): Illegal string format while restoring SAVE_NAME.
+
+³ÌĞò£ºfeature/save.c µÚ 19 ĞĞ
+Îï¼ş£º/d/city/npc/xiaoer#12
+ºô½ĞÀ´×Ô£ºadm/daemons/logind.c µÄ get_passwd() µÚ 373 ĞĞ£¬Îï¼ş£º adm/daemons/logind
+µ÷ÓÃ²ÎÊı£ºget_passwd("cipl2")
+¾Ö²¿±äÁ¿£º"cipl2"
+ºô½ĞÀ´×Ô£ºadm/daemons/logind.c µÄ enter_world() µÚ 703 ĞĞ£¬Îï¼ş£º adm/daemons/logind
+µ÷ÓÃ²ÎÊı£ºenter_world(NULL)
+¾Ö²¿±äÁ¿£ºNULL, NULL, NULL, "/d/city/kezhan", NULL, NULL
+ºô½ĞÀ´×Ô£ºadm/daemons/logind.c µÄ CATCH() µÚ 703 ĞĞ£¬Îï¼ş£º adm/daemons/logind
+µ÷ÓÃ²ÎÊı£ºCATCH()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºd/city/kezhan.c µÄ create() µÚ 30 ĞĞ£¬Îï¼ş£º d/city/kezhan
+µ÷ÓÃ²ÎÊı£ºcreate()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºstd/room.c µÄ setup() µÚ 204 ĞĞ£¬Îï¼ş£º d/city/kezhan
+µ÷ÓÃ²ÎÊı£ºsetup()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºstd/room.c µÄ reset() µÚ 55 ĞĞ£¬Îï¼ş£º d/city/kezhan
+µ÷ÓÃ²ÎÊı£ºreset()
+¾Ö²¿±äÁ¿£º([ ... ]), ([ ... ]), ({ ... }), 1, NULL
+ºô½ĞÀ´×Ô£ºstd/room.c µÄ make_inventory() µÚ 20 ĞĞ£¬Îï¼ş£º d/city/kezhan
+µ÷ÓÃ²ÎÊı£ºmake_inventory("/d/city/npc/xiaoer")
+¾Ö²¿±äÁ¿£ºNULL
+ºô½ĞÀ´×Ô£ºd/city/npc/xiaoer.c µÄ create() µÚ 6 ĞĞ£¬Îï¼ş£º d/city/npc/xiaoer#12 ("µêĞ¡¶ş")
+µ÷ÓÃ²ÎÊı£ºcreate()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/vendor_sale.c µÄ reload() µÚ 475 ĞĞ£¬Îï¼ş£º d/city/npc/xiaoer#12 ("µêĞ¡¶ş")
+µ÷ÓÃ²ÎÊı£ºreload("xiaoer")
+¾Ö²¿±äÁ¿£ºNULL
+ºô½ĞÀ´×Ô£ºstd/char/npcsave.c µÄ reload() µÚ 54 ĞĞ£¬Îï¼ş£º d/city/npc/xiaoer#12 ("µêĞ¡¶ş")
+µ÷ÓÃ²ÎÊı£ºreload("xiaoer")
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/save.c µÄ restore() µÚ 19 ĞĞ£¬Îï¼ş£º d/city/npc/xiaoer#12 ("µêĞ¡¶ş")
+µ÷ÓÃ²ÎÊı£ºrestore()
+¾Ö²¿±äÁ¿£º"/data/npc/boss/xiaoer"
+this_player: obj/user#2 ("¼»ñÉ")
+previous_object(0): d/city/npc/xiaoer#12 ("µêĞ¡¶ş")
+previous_object(1): d/city/kezhan
+previous_object(2): d/city/kezhan
+previous_object(3): adm/daemons/logind
++----------------------------------------------------------------------+
+
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/cmds/wiz/clone'
+
+³ÌĞò£ºfeature/command.c µÚ 76 ĞĞ
+Îï¼ş£º/obj/user#2
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 76 ĞĞ£¬Îï¼ş£º obj/user#2 ("¼»ñÉ")
+µ÷ÓÃ²ÎÊı£ºcommand_hook("wan")
+¾Ö²¿±äÁ¿£º"clone", "/cmds/wiz/clone"
+this_player: obj/user#2 ("¼»ñÉ")
+          <- d/death/bidouya
+previous_object(0): obj/user#2 ("¼»ñÉ")
++----------------------------------------------------------------------+
+
+current_interactive is obj/user#2
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/cmds/wiz/clone'
+
+³ÌĞò£ºfeature/command.c µÚ 76 ĞĞ
+Îï¼ş£º/obj/user#2
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 76 ĞĞ£¬Îï¼ş£º obj/user#2 ("¼»ñÉ")
+µ÷ÓÃ²ÎÊı£ºcommand_hook(NULL)
+¾Ö²¿±äÁ¿£º"clone", "/cmds/wiz/clone"
+this_player: obj/user#2 ("¼»ñÉ")
+          <- d/death/bidouya
+previous_object(0): obj/user#2 ("¼»ñÉ")
++----------------------------------------------------------------------+
+
+current_interactive is obj/user#2
+
+Ö´ĞĞÊ±¶Î´íÎó£ºF_SKILL: No such skill (wuxiang force)
+
+³ÌĞò£ºfeature/skill.c µÚ 17 ĞĞ
+Îï¼ş£º/obj/user#2
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 76 ĞĞ£¬Îï¼ş£º obj/user#2 ("¼»ñÉ")
+µ÷ÓÃ²ÎÊı£ºcommand_hook("cipl->set_skill("wuxiang force", 80)")
+¾Ö²¿±äÁ¿£º"call", "/cmds/wiz/call"
+ºô½ĞÀ´×Ô£ºcmds/wiz/call.c µÄ main() µÚ 55 ĞĞ£¬Îï¼ş£º cmds/wiz/call
+µ÷ÓÃ²ÎÊı£ºmain("cipl->set_skill("wuxiang force", 80)")
+¾Ö²¿±äÁ¿£º"cipl", "set_skill", ""wuxiang force", 80", NULL, ({ ... }), NULL, 2
+ºô½ĞÀ´×Ô£ºfeature/skill.c µÄ set_skill() µÚ 17 ĞĞ£¬Îï¼ş£º obj/user#2 ("¼»ñÉ")
+µ÷ÓÃ²ÎÊı£ºset_skill("wuxiang force", 80)
+¾Ö²¿±äÁ¿£º
+this_player: obj/user#2 ("¼»ñÉ")
+          <- d/4world/houshan2
+previous_object(0): obj/user#2 ("¼»ñÉ")
+previous_object(1): cmds/wiz/call
+previous_object(2): obj/user#2 ("¼»ñÉ")
++----------------------------------------------------------------------+
+
+current_interactive is obj/user#2
+
+Ö´ĞĞÊ±¶Î´íÎó£ºF_SKILL: No such skill (jinhun-zhang)
+
+³ÌĞò£ºfeature/skill.c µÚ 17 ĞĞ
+Îï¼ş£º/obj/user#2
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 76 ĞĞ£¬Îï¼ş£º obj/user#2 ("¼»ñÉ")
+µ÷ÓÃ²ÎÊı£ºcommand_hook("cipl->set_skill("jinhun-zhang", 800)")
+¾Ö²¿±äÁ¿£º"call", "/cmds/wiz/call"
+ºô½ĞÀ´×Ô£ºcmds/wiz/call.c µÄ main() µÚ 55 ĞĞ£¬Îï¼ş£º cmds/wiz/call
+µ÷ÓÃ²ÎÊı£ºmain("cipl->set_skill("jinhun-zhang", 800)")
+¾Ö²¿±äÁ¿£º"cipl", "set_skill", ""jinhun-zhang", 800", NULL, ({ ... }), NULL, 2
+ºô½ĞÀ´×Ô£ºfeature/skill.c µÄ set_skill() µÚ 17 ĞĞ£¬Îï¼ş£º obj/user#2 ("¼»ñÉ")
+µ÷ÓÃ²ÎÊı£ºset_skill("jinhun-zhang", 800)
+¾Ö²¿±äÁ¿£º
+this_player: obj/user#2 ("¼»ñÉ")
+          <- d/4world/houshan2
+previous_object(0): obj/user#2 ("¼»ñÉ")
+previous_object(1): cmds/wiz/call
+previous_object(2): obj/user#2 ("¼»ñÉ")
++----------------------------------------------------------------------+
+
+current_interactive is obj/user#2
+
+Ö´ĞĞÊ±¶Î´íÎó£ºF_SKILL: No such skill (jinhunzhang)
+
+³ÌĞò£ºfeature/skill.c µÚ 17 ĞĞ
+Îï¼ş£º/obj/user#2
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 76 ĞĞ£¬Îï¼ş£º obj/user#2 ("¼»ñÉ")
+µ÷ÓÃ²ÎÊı£ºcommand_hook("cipl->set_skill("jinhunzhang", 800)")
+¾Ö²¿±äÁ¿£º"call", "/cmds/wiz/call"
+ºô½ĞÀ´×Ô£ºcmds/wiz/call.c µÄ main() µÚ 55 ĞĞ£¬Îï¼ş£º cmds/wiz/call
+µ÷ÓÃ²ÎÊı£ºmain("cipl->set_skill("jinhunzhang", 800)")
+¾Ö²¿±äÁ¿£º"cipl", "set_skill", ""jinhunzhang", 800", NULL, ({ ... }), NULL, 2
+ºô½ĞÀ´×Ô£ºfeature/skill.c µÄ set_skill() µÚ 17 ĞĞ£¬Îï¼ş£º obj/user#2 ("¼»ñÉ")
+µ÷ÓÃ²ÎÊı£ºset_skill("jinhunzhang", 800)
+¾Ö²¿±äÁ¿£º
+this_player: obj/user#2 ("¼»ñÉ")
+          <- d/4world/houshan2
+previous_object(0): obj/user#2 ("¼»ñÉ")
+previous_object(1): cmds/wiz/call
+previous_object(2): obj/user#2 ("¼»ñÉ")
++----------------------------------------------------------------------+
+
+current_interactive is obj/user#2
+
+Ö´ĞĞÊ±¶Î´íÎó£ºF_SKILL: No such skill (jinghunzhang)
+
+³ÌĞò£ºfeature/skill.c µÚ 17 ĞĞ
+Îï¼ş£º/obj/user#2
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 76 ĞĞ£¬Îï¼ş£º obj/user#2 ("¼»ñÉ")
+µ÷ÓÃ²ÎÊı£ºcommand_hook("cipl->set_skill("jinghunzhang", 800)")
+¾Ö²¿±äÁ¿£º"call", "/cmds/wiz/call"
+ºô½ĞÀ´×Ô£ºcmds/wiz/call.c µÄ main() µÚ 55 ĞĞ£¬Îï¼ş£º cmds/wiz/call
+µ÷ÓÃ²ÎÊı£ºmain("cipl->set_skill("jinghunzhang", 800)")
+¾Ö²¿±äÁ¿£º"cipl", "set_skill", ""jinghunzhang", 800", NULL, ({ ... }), NULL, 2
+ºô½ĞÀ´×Ô£ºfeature/skill.c µÄ set_skill() µÚ 17 ĞĞ£¬Îï¼ş£º obj/user#2 ("¼»ñÉ")
+µ÷ÓÃ²ÎÊı£ºset_skill("jinghunzhang", 800)
+¾Ö²¿±äÁ¿£º
+this_player: obj/user#2 ("¼»ñÉ")
+          <- d/4world/houshan2
+previous_object(0): obj/user#2 ("¼»ñÉ")
+previous_object(1): cmds/wiz/call
+previous_object(2): obj/user#2 ("¼»ñÉ")
++----------------------------------------------------------------------+
+
+current_interactive is obj/user#2
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/cmds/wiz/clone'
+
+³ÌĞò£ºfeature/command.c µÚ 76 ĞĞ
+Îï¼ş£º/obj/user#160
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 76 ĞĞ£¬Îï¼ş£º obj/user#160 ("¼»ñÉ")
+µ÷ÓÃ²ÎÊı£ºcommand_hook("dan")
+¾Ö²¿±äÁ¿£º"clone", "/cmds/wiz/clone"
+this_player: obj/user#160 ("¼»ñÉ")
+          <- d/city/yaopu
+previous_object(0): obj/user#160 ("¼»ñÉ")
++----------------------------------------------------------------------+
+
+current_interactive is obj/user#160
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/cmds/imm/ls'
+
+³ÌĞò£ºfeature/command.c µÚ 76 ĞĞ
+Îï¼ş£º/obj/user#160
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 76 ĞĞ£¬Îï¼ş£º obj/user#160 ("¼»ñÉ")
+µ÷ÓÃ²ÎÊı£ºcommand_hook(NULL)
+¾Ö²¿±äÁ¿£º"ls", "/cmds/imm/ls"
+this_player: obj/user#160 ("¼»ñÉ")
+          <- d/city/yaopu
+previous_object(0): obj/user#160 ("¼»ñÉ")
++----------------------------------------------------------------------+
+
+current_interactive is obj/user#160
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/cmds/imm/ls'
+
+³ÌĞò£ºfeature/command.c µÚ 76 ĞĞ
+Îï¼ş£º/obj/user#160
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 76 ĞĞ£¬Îï¼ş£º obj/user#160 ("¼»ñÉ")
+µ÷ÓÃ²ÎÊı£ºcommand_hook(NULL)
+¾Ö²¿±äÁ¿£º"ls", "/cmds/imm/ls"
+this_player: obj/user#160 ("¼»ñÉ")
+          <- d/city/yaopu
+previous_object(0): obj/user#160 ("¼»ñÉ")
++----------------------------------------------------------------------+
+
+current_interactive is obj/user#160
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/cmds/wiz/clone'
+
+³ÌĞò£ºfeature/command.c µÚ 76 ĞĞ
+Îï¼ş£º/obj/user#160
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 76 ĞĞ£¬Îï¼ş£º obj/user#160 ("¼»ñÉ")
+µ÷ÓÃ²ÎÊı£ºcommand_hook("gold")
+¾Ö²¿±äÁ¿£º"clone", "/cmds/wiz/clone"
+this_player: obj/user#160 ("¼»ñÉ")
+          <- d/city/yaopu
+previous_object(0): obj/user#160 ("¼»ñÉ")
++----------------------------------------------------------------------+
+
+current_interactive is obj/user#160
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/cmds/wiz/clone'
+
+³ÌĞò£ºfeature/command.c µÚ 76 ĞĞ
+Îï¼ş£º/obj/user#160
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 76 ĞĞ£¬Îï¼ş£º obj/user#160 ("¼»ñÉ")
+µ÷ÓÃ²ÎÊı£ºcommand_hook("dan")
+¾Ö²¿±äÁ¿£º"clone", "/cmds/wiz/clone"
+this_player: obj/user#160 ("¼»ñÉ")
+          <- d/city/yaopu
+previous_object(0): obj/user#160 ("¼»ñÉ")
++----------------------------------------------------------------------+
+
+current_interactive is obj/user#160
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/cmds/wiz/clone'
+
+³ÌĞò£ºfeature/command.c µÚ 76 ĞĞ
+Îï¼ş£º/obj/user#160
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 76 ĞĞ£¬Îï¼ş£º obj/user#160 ("¼»ñÉ")
+µ÷ÓÃ²ÎÊı£ºcommand_hook("gold.c")
+¾Ö²¿±äÁ¿£º"clone", "/cmds/wiz/clone"
+this_player: obj/user#160 ("¼»ñÉ")
+          <- d/city/yaopu
+previous_object(0): obj/user#160 ("¼»ñÉ")
++----------------------------------------------------------------------+
+
+current_interactive is obj/user#160
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/cmds/wiz/clone'
+
+³ÌĞò£ºfeature/command.c µÚ 76 ĞĞ
+Îï¼ş£º/obj/user#160
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 76 ĞĞ£¬Îï¼ş£º obj/user#160 ("¼»ñÉ")
+µ÷ÓÃ²ÎÊı£ºcommand_hook("gold")
+¾Ö²¿±äÁ¿£º"clone", "/cmds/wiz/clone"
+this_player: obj/user#160 ("¼»ñÉ")
+          <- d/city/yaopu
+previous_object(0): obj/user#160 ("¼»ñÉ")
++----------------------------------------------------------------------+
+
+current_interactive is obj/user#160
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/cmds/wiz/clone'
+
+³ÌĞò£ºfeature/command.c µÚ 76 ĞĞ
+Îï¼ş£º/obj/user#160
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 76 ĞĞ£¬Îï¼ş£º obj/user#160 ("¼»ñÉ")
+µ÷ÓÃ²ÎÊı£ºcommand_hook("silver")
+¾Ö²¿±äÁ¿£º"clone", "/cmds/wiz/clone"
+this_player: obj/user#160 ("¼»ñÉ")
+          <- d/city/dangpu
+previous_object(0): obj/user#160 ("¼»ñÉ")
++----------------------------------------------------------------------+
+
+current_interactive is obj/user#160
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/cmds/wiz/clone'
+
+³ÌĞò£ºfeature/command.c µÚ 76 ĞĞ
+Îï¼ş£º/obj/user#160
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 76 ĞĞ£¬Îï¼ş£º obj/user#160 ("¼»ñÉ")
+µ÷ÓÃ²ÎÊı£ºcommand_hook("1 silver")
+¾Ö²¿±äÁ¿£º"clone", "/cmds/wiz/clone"
+this_player: obj/user#160 ("¼»ñÉ")
+          <- d/city/dangpu
+previous_object(0): obj/user#160 ("¼»ñÉ")
++----------------------------------------------------------------------+
+
+current_interactive is obj/user#160
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/cmds/wiz/update'
+
+³ÌĞò£ºfeature/command.c µÚ 76 ĞĞ
+Îï¼ş£º/obj/user#160
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 76 ĞĞ£¬Îï¼ş£º obj/user#160 ("¼»ñÉ")
+µ÷ÓÃ²ÎÊı£ºcommand_hook(NULL)
+¾Ö²¿±äÁ¿£º"update", "/cmds/wiz/update"
+this_player: obj/user#160 ("¼»ñÉ")
+          <- d/city/yaopu
+previous_object(0): obj/user#160 ("¼»ñÉ")
++----------------------------------------------------------------------+
+
+current_interactive is obj/user#160
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/cmds/wiz/clone'
+
+³ÌĞò£ºfeature/command.c µÚ 76 ĞĞ
+Îï¼ş£º/obj/user#263
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 76 ĞĞ£¬Îï¼ş£º obj/user#263 ("¼»ñÉ")
+µ÷ÓÃ²ÎÊı£ºcommand_hook("tao")
+¾Ö²¿±äÁ¿£º"clone", "/cmds/wiz/clone"
+this_player: obj/user#263 ("¼»ñÉ")
+          <- d/4world/houshan4
+previous_object(0): obj/user#263 ("¼»ñÉ")
++----------------------------------------------------------------------+
+
+current_interactive is obj/user#263
+
+Ö´ĞĞÊ±¶Î´íÎó£º*restore_object(): Illegal string format while restoring SAVE_NAME.
+
+³ÌĞò£ºfeature/save.c µÚ 19 ĞĞ
+Îï¼ş£º/d/city/npc/xiaoer#339
+ºô½ĞÀ´×Ô£ºstd/room.c µÄ reset() µÚ 55 ĞĞ£¬Îï¼ş£º d/city/kezhan
+µ÷ÓÃ²ÎÊı£ºreset()
+¾Ö²¿±äÁ¿£º([ ... ]), ([ ... ]), ({ ... }), 1, NULL
+ºô½ĞÀ´×Ô£ºstd/room.c µÄ make_inventory() µÚ 20 ĞĞ£¬Îï¼ş£º d/city/kezhan
+µ÷ÓÃ²ÎÊı£ºmake_inventory("/d/city/npc/xiaoer")
+¾Ö²¿±äÁ¿£ºNULL
+ºô½ĞÀ´×Ô£ºd/city/npc/xiaoer.c µÄ create() µÚ 6 ĞĞ£¬Îï¼ş£º d/city/npc/xiaoer#339 ("µêĞ¡¶ş")
+µ÷ÓÃ²ÎÊı£ºcreate()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/vendor_sale.c µÄ reload() µÚ 475 ĞĞ£¬Îï¼ş£º d/city/npc/xiaoer#339 ("µêĞ¡¶ş")
+µ÷ÓÃ²ÎÊı£ºreload("xiaoer")
+¾Ö²¿±äÁ¿£ºNULL
+ºô½ĞÀ´×Ô£ºstd/char/npcsave.c µÄ reload() µÚ 54 ĞĞ£¬Îï¼ş£º d/city/npc/xiaoer#339 ("µêĞ¡¶ş")
+µ÷ÓÃ²ÎÊı£ºreload("xiaoer")
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/save.c µÄ restore() µÚ 19 ĞĞ£¬Îï¼ş£º d/city/npc/xiaoer#339 ("µêĞ¡¶ş")
+µ÷ÓÃ²ÎÊı£ºrestore()
+¾Ö²¿±äÁ¿£º"/data/npc/boss/xiaoer"
+previous_object(0): d/city/npc/xiaoer#339 ("µêĞ¡¶ş")
+previous_object(1): d/city/kezhan
++----------------------------------------------------------------------+
+
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/cmds/imm/ls'
+
+³ÌĞò£ºfeature/command.c µÚ 76 ĞĞ
+Îï¼ş£º/obj/user#263
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 76 ĞĞ£¬Îï¼ş£º obj/user#263 ("¼»ñÉ")
+µ÷ÓÃ²ÎÊı£ºcommand_hook(NULL)
+¾Ö²¿±äÁ¿£º"ls", "/cmds/imm/ls"
+this_player: obj/user#263 ("¼»ñÉ")
+          <- d/city/bank
+previous_object(0): obj/user#263 ("¼»ñÉ")
++----------------------------------------------------------------------+
+
+current_interactive is obj/user#263
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/cmds/wiz/clone'
+
+³ÌĞò£ºfeature/command.c µÚ 76 ĞĞ
+Îï¼ş£º/obj/user#263
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 76 ĞĞ£¬Îï¼ş£º obj/user#263 ("¼»ñÉ")
+µ÷ÓÃ²ÎÊı£ºcommand_hook("armor")
+¾Ö²¿±äÁ¿£º"clone", "/cmds/wiz/clone"
+this_player: obj/user#263 ("¼»ñÉ")
+          <- d/city/bank
+previous_object(0): obj/user#263 ("¼»ñÉ")
++----------------------------------------------------------------------+
+
+current_interactive is obj/user#263
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+Î÷ÓÎ¼Ç   (MudOS v21.7) starting up on Microsoft Windows NT - Fri Aug 28 03:36:53 1998
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+adm/obj/simul_efun.c line 1: Warning: Unknown #pragma, ignored.
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 6666.
+´íÎóÑ¶Ï¢±»À¹½Ø£º
+Ö´ĞĞÊ±¶Î´íÎó£º*restore_object(): Illegal string format while restoring SAVE_NAME.
+
+³ÌĞò£ºfeature/save.c µÚ 19 ĞĞ
+Îï¼ş£º/d/city/npc/xiaoer#13
+ºô½ĞÀ´×Ô£ºadm/daemons/logind.c µÄ get_passwd() µÚ 373 ĞĞ£¬Îï¼ş£º adm/daemons/logind
+µ÷ÓÃ²ÎÊı£ºget_passwd("cipl2")
+¾Ö²¿±äÁ¿£º"cipl2"
+ºô½ĞÀ´×Ô£ºadm/daemons/logind.c µÄ enter_world() µÚ 703 ĞĞ£¬Îï¼ş£º adm/daemons/logind
+µ÷ÓÃ²ÎÊı£ºenter_world(NULL)
+¾Ö²¿±äÁ¿£ºNULL, NULL, NULL, "/d/city/kezhan", NULL, NULL
+ºô½ĞÀ´×Ô£ºadm/daemons/logind.c µÄ CATCH() µÚ 703 ĞĞ£¬Îï¼ş£º adm/daemons/logind
+µ÷ÓÃ²ÎÊı£ºCATCH()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºd/city/kezhan.c µÄ create() µÚ 30 ĞĞ£¬Îï¼ş£º d/city/kezhan
+µ÷ÓÃ²ÎÊı£ºcreate()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºstd/room.c µÄ setup() µÚ 204 ĞĞ£¬Îï¼ş£º d/city/kezhan
+µ÷ÓÃ²ÎÊı£ºsetup()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºstd/room.c µÄ reset() µÚ 55 ĞĞ£¬Îï¼ş£º d/city/kezhan
+µ÷ÓÃ²ÎÊı£ºreset()
+¾Ö²¿±äÁ¿£º([ ... ]), ([ ... ]), ({ ... }), 1, NULL
+ºô½ĞÀ´×Ô£ºstd/room.c µÄ make_inventory() µÚ 20 ĞĞ£¬Îï¼ş£º d/city/kezhan
+µ÷ÓÃ²ÎÊı£ºmake_inventory("/d/city/npc/xiaoer")
+¾Ö²¿±äÁ¿£ºNULL
+ºô½ĞÀ´×Ô£ºd/city/npc/xiaoer.c µÄ create() µÚ 6 ĞĞ£¬Îï¼ş£º d/city/npc/xiaoer#13 ("µêĞ¡¶ş")
+µ÷ÓÃ²ÎÊı£ºcreate()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/vendor_sale.c µÄ reload() µÚ 475 ĞĞ£¬Îï¼ş£º d/city/npc/xiaoer#13 ("µêĞ¡¶ş")
+µ÷ÓÃ²ÎÊı£ºreload("xiaoer")
+¾Ö²¿±äÁ¿£ºNULL
+ºô½ĞÀ´×Ô£ºstd/char/npcsave.c µÄ reload() µÚ 54 ĞĞ£¬Îï¼ş£º d/city/npc/xiaoer#13 ("µêĞ¡¶ş")
+µ÷ÓÃ²ÎÊı£ºreload("xiaoer")
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/save.c µÄ restore() µÚ 19 ĞĞ£¬Îï¼ş£º d/city/npc/xiaoer#13 ("µêĞ¡¶ş")
+µ÷ÓÃ²ÎÊı£ºrestore()
+¾Ö²¿±äÁ¿£º"/data/npc/boss/xiaoer"
+this_player: obj/user#1 ("¼»ñÉ")
+previous_object(0): d/city/npc/xiaoer#13 ("µêĞ¡¶ş")
+previous_object(1): d/city/kezhan
+previous_object(2): d/city/kezhan
+previous_object(3): adm/daemons/logind
++----------------------------------------------------------------------+
+
+
+Ö´ĞĞÊ±¶Î´íÎó£ºF_SKILL: No such skill (wuxiang-force)
+
+³ÌĞò£ºfeature/skill.c µÚ 17 ĞĞ
+Îï¼ş£º/obj/user#1
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 76 ĞĞ£¬Îï¼ş£º obj/user#1 ("¼»ñÉ")
+µ÷ÓÃ²ÎÊı£ºcommand_hook("cipl->set_skill("wuxiang-force",400)")
+¾Ö²¿±äÁ¿£º"call", "/cmds/wiz/call"
+ºô½ĞÀ´×Ô£ºcmds/wiz/call.c µÄ main() µÚ 55 ĞĞ£¬Îï¼ş£º cmds/wiz/call
+µ÷ÓÃ²ÎÊı£ºmain("cipl->set_skill("wuxiang-force",400)")
+¾Ö²¿±äÁ¿£º"cipl", "set_skill", ""wuxiang-force",400", NULL, ({ ... }), NULL, 2
+ºô½ĞÀ´×Ô£ºfeature/skill.c µÄ set_skill() µÚ 17 ĞĞ£¬Îï¼ş£º obj/user#1 ("¼»ñÉ")
+µ÷ÓÃ²ÎÊı£ºset_skill("wuxiang-force", 400)
+¾Ö²¿±äÁ¿£º
+this_player: obj/user#1 ("¼»ñÉ")
+          <- d/sky/sw1
+previous_object(0): obj/user#1 ("¼»ñÉ")
+previous_object(1): cmds/wiz/call
+previous_object(2): obj/user#1 ("¼»ñÉ")
++----------------------------------------------------------------------+
+
+
+Ö´ĞĞÊ±¶Î´íÎó£ºF_SKILL: No such skill (dap)
+
+³ÌĞò£ºfeature/skill.c µÚ 17 ĞĞ
+Îï¼ş£º/obj/user#1
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 76 ĞĞ£¬Îï¼ş£º obj/user#1 ("¼»ñÉ")
+µ÷ÓÃ²ÎÊı£ºcommand_hook("cipl->set_skill("dap",400)")
+¾Ö²¿±äÁ¿£º"call", "/cmds/wiz/call"
+ºô½ĞÀ´×Ô£ºcmds/wiz/call.c µÄ main() µÚ 55 ĞĞ£¬Îï¼ş£º cmds/wiz/call
+µ÷ÓÃ²ÎÊı£ºmain("cipl->set_skill("dap",400)")
+¾Ö²¿±äÁ¿£º"cipl", "set_skill", ""dap",400", NULL, ({ ... }), NULL, 2
+ºô½ĞÀ´×Ô£ºfeature/skill.c µÄ set_skill() µÚ 17 ĞĞ£¬Îï¼ş£º obj/user#1 ("¼»ñÉ")
+µ÷ÓÃ²ÎÊı£ºset_skill("dap", 400)
+¾Ö²¿±äÁ¿£º
+this_player: obj/user#1 ("¼»ñÉ")
+          <- d/sky/sw1
+previous_object(0): obj/user#1 ("¼»ñÉ")
+previous_object(1): cmds/wiz/call
+previous_object(2): obj/user#1 ("¼»ñÉ")
++----------------------------------------------------------------------+
+
+
+Ö´ĞĞÊ±¶Î´íÎó£ºF_SKILL: No such skill (liberate)
+
+³ÌĞò£ºfeature/skill.c µÚ 17 ĞĞ
+Îï¼ş£º/obj/user#1
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 76 ĞĞ£¬Îï¼ş£º obj/user#1 ("¼»ñÉ")
+µ÷ÓÃ²ÎÊı£ºcommand_hook("cipl->set_skill("liberate",400)")
+¾Ö²¿±äÁ¿£º"call", "/cmds/wiz/call"
+ºô½ĞÀ´×Ô£ºcmds/wiz/call.c µÄ main() µÚ 55 ĞĞ£¬Îï¼ş£º cmds/wiz/call
+µ÷ÓÃ²ÎÊı£ºmain("cipl->set_skill("liberate",400)")
+¾Ö²¿±äÁ¿£º"cipl", "set_skill", ""liberate",400", NULL, ({ ... }), NULL, 2
+ºô½ĞÀ´×Ô£ºfeature/skill.c µÄ set_skill() µÚ 17 ĞĞ£¬Îï¼ş£º obj/user#1 ("¼»ñÉ")
+µ÷ÓÃ²ÎÊı£ºset_skill("liberate", 400)
+¾Ö²¿±äÁ¿£º
+this_player: obj/user#1 ("¼»ñÉ")
+          <- d/sky/sw1
+previous_object(0): obj/user#1 ("¼»ñÉ")
+previous_object(1): cmds/wiz/call
+previous_object(2): obj/user#1 ("¼»ñÉ")
++----------------------------------------------------------------------+
+
+
+Ö´ĞĞÊ±¶Î´íÎó£ºF_SKILL: No such skill (liberates)
+
+³ÌĞò£ºfeature/skill.c µÚ 17 ĞĞ
+Îï¼ş£º/obj/user#1
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 76 ĞĞ£¬Îï¼ş£º obj/user#1 ("¼»ñÉ")
+µ÷ÓÃ²ÎÊı£ºcommand_hook("cipl->set_skill("liberates",400)")
+¾Ö²¿±äÁ¿£º"call", "/cmds/wiz/call"
+ºô½ĞÀ´×Ô£ºcmds/wiz/call.c µÄ main() µÚ 55 ĞĞ£¬Îï¼ş£º cmds/wiz/call
+µ÷ÓÃ²ÎÊı£ºmain("cipl->set_skill("liberates",400)")
+¾Ö²¿±äÁ¿£º"cipl", "set_skill", ""liberates",400", NULL, ({ ... }), NULL, 2
+ºô½ĞÀ´×Ô£ºfeature/skill.c µÄ set_skill() µÚ 17 ĞĞ£¬Îï¼ş£º obj/user#1 ("¼»ñÉ")
+µ÷ÓÃ²ÎÊı£ºset_skill("liberates", 400)
+¾Ö²¿±äÁ¿£º
+this_player: obj/user#1 ("¼»ñÉ")
+          <- d/sky/sw1
+previous_object(0): obj/user#1 ("¼»ñÉ")
+previous_object(1): cmds/wiz/call
+previous_object(2): obj/user#1 ("¼»ñÉ")
++----------------------------------------------------------------------+
+
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+Î÷ÓÎ¼Ç   (MudOS v21.7) starting up on Microsoft Windows NT - Wed Sep 16 23:34:53 1998
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+adm/obj/simul_efun.c line 1: Warning: Unknown #pragma, ignored.
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 5555.
+´íÎóÑ¶Ï¢±»À¹½Ø£º
+Ö´ĞĞÊ±¶Î´íÎó£º*restore_object(): Illegal string format while restoring SAVE_NAME.
+
+³ÌĞò£ºfeature/save.c µÚ 19 ĞĞ
+Îï¼ş£º/d/city/npc/xiaoer#10
+ºô½ĞÀ´×Ô£ºadm/daemons/logind.c µÄ confirm_gift() µÚ 593 ĞĞ£¬Îï¼ş£º adm/daemons/logind
+µ÷ÓÃ²ÎÊı£ºconfirm_gift("y")
+¾Ö²¿±äÁ¿£ºNULL
+ºô½ĞÀ´×Ô£ºadm/daemons/logind.c µÄ enter_world() µÚ 703 ĞĞ£¬Îï¼ş£º adm/daemons/logind
+µ÷ÓÃ²ÎÊı£ºenter_world(NULL)
+¾Ö²¿±äÁ¿£ºNULL, NULL, NULL, "/d/city/kezhan", NULL, NULL
+ºô½ĞÀ´×Ô£ºadm/daemons/logind.c µÄ CATCH() µÚ 703 ĞĞ£¬Îï¼ş£º adm/daemons/logind
+µ÷ÓÃ²ÎÊı£ºCATCH()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºd/city/kezhan.c µÄ create() µÚ 30 ĞĞ£¬Îï¼ş£º d/city/kezhan
+µ÷ÓÃ²ÎÊı£ºcreate()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºstd/room.c µÄ setup() µÚ 204 ĞĞ£¬Îï¼ş£º d/city/kezhan
+µ÷ÓÃ²ÎÊı£ºsetup()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºstd/room.c µÄ reset() µÚ 55 ĞĞ£¬Îï¼ş£º d/city/kezhan
+µ÷ÓÃ²ÎÊı£ºreset()
+¾Ö²¿±äÁ¿£º([ ... ]), ([ ... ]), ({ ... }), 1, NULL
+ºô½ĞÀ´×Ô£ºstd/room.c µÄ make_inventory() µÚ 20 ĞĞ£¬Îï¼ş£º d/city/kezhan
+µ÷ÓÃ²ÎÊı£ºmake_inventory("/d/city/npc/xiaoer")
+¾Ö²¿±äÁ¿£ºNULL
+ºô½ĞÀ´×Ô£ºd/city/npc/xiaoer.c µÄ create() µÚ 6 ĞĞ£¬Îï¼ş£º d/city/npc/xiaoer#10 ("µêĞ¡¶ş")
+µ÷ÓÃ²ÎÊı£ºcreate()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/vendor_sale.c µÄ reload() µÚ 475 ĞĞ£¬Îï¼ş£º d/city/npc/xiaoer#10 ("µêĞ¡¶ş")
+µ÷ÓÃ²ÎÊı£ºreload("xiaoer")
+¾Ö²¿±äÁ¿£ºNULL
+ºô½ĞÀ´×Ô£ºstd/char/npcsave.c µÄ reload() µÚ 54 ĞĞ£¬Îï¼ş£º d/city/npc/xiaoer#10 ("µêĞ¡¶ş")
+µ÷ÓÃ²ÎÊı£ºreload("xiaoer")
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/save.c µÄ restore() µÚ 19 ĞĞ£¬Îï¼ş£º d/city/npc/xiaoer#10 ("µêĞ¡¶ş")
+µ÷ÓÃ²ÎÊı£ºrestore()
+¾Ö²¿±äÁ¿£º"/data/npc/boss/xiaoer"
+this_player: obj/user#1 ("ÏôÇïË®")
+previous_object(0): d/city/npc/xiaoer#10 ("µêĞ¡¶ş")
+previous_object(1): d/city/kezhan
+previous_object(2): d/city/kezhan
+previous_object(3): adm/daemons/logind
++----------------------------------------------------------------------+
+
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+Î÷ÓÎ¼Ç   (MudOS v21.7) starting up on Microsoft Windows NT - Sat Oct 31 18:37:38 1998
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+adm/obj/simul_efun.c line 1: Warning: Unknown #pragma, ignored.
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 5555.
+´íÎóÑ¶Ï¢±»À¹½Ø£º
+Ö´ĞĞÊ±¶Î´íÎó£º*restore_object(): Illegal string format while restoring SAVE_NAME.
+
+³ÌĞò£ºfeature/save.c µÚ 19 ĞĞ
+Îï¼ş£º/d/city/npc/xiaoer#10
+ºô½ĞÀ´×Ô£ºadm/daemons/logind.c µÄ confirm_gift() µÚ 593 ĞĞ£¬Îï¼ş£º adm/daemons/logind
+µ÷ÓÃ²ÎÊı£ºconfirm_gift("y")
+¾Ö²¿±äÁ¿£ºNULL
+ºô½ĞÀ´×Ô£ºadm/daemons/logind.c µÄ enter_world() µÚ 703 ĞĞ£¬Îï¼ş£º adm/daemons/logind
+µ÷ÓÃ²ÎÊı£ºenter_world(NULL)
+¾Ö²¿±äÁ¿£ºNULL, NULL, NULL, "/d/city/kezhan", NULL, NULL
+ºô½ĞÀ´×Ô£ºadm/daemons/logind.c µÄ CATCH() µÚ 703 ĞĞ£¬Îï¼ş£º adm/daemons/logind
+µ÷ÓÃ²ÎÊı£ºCATCH()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºd/city/kezhan.c µÄ create() µÚ 30 ĞĞ£¬Îï¼ş£º d/city/kezhan
+µ÷ÓÃ²ÎÊı£ºcreate()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºstd/room.c µÄ setup() µÚ 204 ĞĞ£¬Îï¼ş£º d/city/kezhan
+µ÷ÓÃ²ÎÊı£ºsetup()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºstd/room.c µÄ reset() µÚ 55 ĞĞ£¬Îï¼ş£º d/city/kezhan
+µ÷ÓÃ²ÎÊı£ºreset()
+¾Ö²¿±äÁ¿£º([ ... ]), ([ ... ]), ({ ... }), 1, NULL
+ºô½ĞÀ´×Ô£ºstd/room.c µÄ make_inventory() µÚ 20 ĞĞ£¬Îï¼ş£º d/city/kezhan
+µ÷ÓÃ²ÎÊı£ºmake_inventory("/d/city/npc/xiaoer")
+¾Ö²¿±äÁ¿£ºNULL
+ºô½ĞÀ´×Ô£ºd/city/npc/xiaoer.c µÄ create() µÚ 6 ĞĞ£¬Îï¼ş£º d/city/npc/xiaoer#10 ("µêĞ¡¶ş")
+µ÷ÓÃ²ÎÊı£ºcreate()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/vendor_sale.c µÄ reload() µÚ 475 ĞĞ£¬Îï¼ş£º d/city/npc/xiaoer#10 ("µêĞ¡¶ş")
+µ÷ÓÃ²ÎÊı£ºreload("xiaoer")
+¾Ö²¿±äÁ¿£ºNULL
+ºô½ĞÀ´×Ô£ºstd/char/npcsave.c µÄ reload() µÚ 54 ĞĞ£¬Îï¼ş£º d/city/npc/xiaoer#10 ("µêĞ¡¶ş")
+µ÷ÓÃ²ÎÊı£ºreload("xiaoer")
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/save.c µÄ restore() µÚ 19 ĞĞ£¬Îï¼ş£º d/city/npc/xiaoer#10 ("µêĞ¡¶ş")
+µ÷ÓÃ²ÎÊı£ºrestore()
+¾Ö²¿±äÁ¿£º"/data/npc/boss/xiaoer"
+this_player: obj/user#1 ("ÍõÕñÓî")
+previous_object(0): d/city/npc/xiaoer#10 ("µêĞ¡¶ş")
+previous_object(1): d/city/kezhan
+previous_object(2): d/city/kezhan
+previous_object(3): adm/daemons/logind
++----------------------------------------------------------------------+
+
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+Î÷ÓÎ¼Ç   (MudOS v21.7) starting up on Microsoft Windows NT - Tue Oct 29 14:40:22 2013
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+adm/obj/simul_efun.c line 1: Warning: Unknown #pragma, ignored.
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 5555.
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+Î÷ÓÎ¼Ç   (MudOS v21.7) starting up on Microsoft Windows NT - Tue Oct 29 14:47:24 2013
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+adm/obj/simul_efun.c line 1: Warning: Unknown #pragma, ignored.
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 5555.
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+Î÷ÓÎ¼Ç   (MudOS v21.7) starting up on Microsoft Windows NT - Tue Oct 29 14:49:01 2013
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+adm/obj/simul_efun.c line 1: Warning: Unknown #pragma, ignored.
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 5555.
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ø»÷µÄ³ÌĞòÔ³   (MudOS v21.7) starting up on Microsoft Windows NT - Tue Oct 29 14:54:02 2013
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+adm/obj/simul_efun.c line 1: Warning: Unknown #pragma, ignored.
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 5555.
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ø»÷µÄ³ÌĞòÔ³   (MudOS v21.7) starting up on Microsoft Windows NT - Tue Oct 29 14:57:35 2013
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+adm/obj/simul_efun.c line 1: Warning: Unknown #pragma, ignored.
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 5555.
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ø»÷µÄ³ÌĞòÔ³   (MudOS v21.7) starting up on Microsoft Windows NT - Tue Oct 29 15:09:14 2013
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:No such file or directory
+adm/obj/simul_efun.c line 1: Warning: Unknown #pragma, ignored.
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 5555.
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ø»÷µÄ³ÌĞòÔ³   (MudOS v21.7) starting up on Microsoft Windows NT - Wed Jan 17 11:23:10 2018
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: gethostbyname:No such file or directory
+adm/obj/simul_efun.c line 1: Warning: Unknown #pragma, ignored.
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 5555.
+Last error 11004
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ø»÷µÄ³ÌĞòÔ³   (MudOS v21.7) starting up on Microsoft Windows NT - Wed Jan 17 11:29:09 2018
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: gethostbyname:No such file or directory
+adm/obj/simul_efun.c line 1: Warning: Unknown #pragma, ignored.
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 5555.
+´íÎóÑ¶Ï¢±»À¹½Ø£º
+Ö´ĞĞÊ±¶Î´íÎó£º*restore_object(): Illegal string format while restoring SAVE_NAME.
+
+³ÌĞò£ºfeature/save.c µÚ 19 ĞĞ
+Îï¼ş£º/d/city/npc/xiaoer#10
+ºô½ĞÀ´×Ô£ºadm/daemons/logind.c µÄ confirm_gift() µÚ 593 ĞĞ£¬Îï¼ş£º adm/daemons/logind
+µ÷ÓÃ²ÎÊı£ºconfirm_gift("y")
+¾Ö²¿±äÁ¿£ºNULL
+ºô½ĞÀ´×Ô£ºadm/daemons/logind.c µÄ enter_world() µÚ 703 ĞĞ£¬Îï¼ş£º adm/daemons/logind
+µ÷ÓÃ²ÎÊı£ºenter_world(NULL)
+¾Ö²¿±äÁ¿£ºNULL, NULL, NULL, "/d/city/kezhan", NULL, NULL
+ºô½ĞÀ´×Ô£ºadm/daemons/logind.c µÄ CATCH() µÚ 703 ĞĞ£¬Îï¼ş£º adm/daemons/logind
+µ÷ÓÃ²ÎÊı£ºCATCH()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºd/city/kezhan.c µÄ create() µÚ 30 ĞĞ£¬Îï¼ş£º d/city/kezhan
+µ÷ÓÃ²ÎÊı£ºcreate()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºstd/room.c µÄ setup() µÚ 204 ĞĞ£¬Îï¼ş£º d/city/kezhan
+µ÷ÓÃ²ÎÊı£ºsetup()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºstd/room.c µÄ reset() µÚ 55 ĞĞ£¬Îï¼ş£º d/city/kezhan
+µ÷ÓÃ²ÎÊı£ºreset()
+¾Ö²¿±äÁ¿£º([ ... ]), ([ ... ]), ({ ... }), 1, NULL
+ºô½ĞÀ´×Ô£ºstd/room.c µÄ make_inventory() µÚ 20 ĞĞ£¬Îï¼ş£º d/city/kezhan
+µ÷ÓÃ²ÎÊı£ºmake_inventory("/d/city/npc/xiaoer")
+¾Ö²¿±äÁ¿£ºNULL
+ºô½ĞÀ´×Ô£ºd/city/npc/xiaoer.c µÄ create() µÚ 6 ĞĞ£¬Îï¼ş£º d/city/npc/xiaoer#10 ("µêĞ¡¶ş")
+µ÷ÓÃ²ÎÊı£ºcreate()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/vendor_sale.c µÄ reload() µÚ 475 ĞĞ£¬Îï¼ş£º d/city/npc/xiaoer#10 ("µêĞ¡¶ş")
+µ÷ÓÃ²ÎÊı£ºreload("xiaoer")
+¾Ö²¿±äÁ¿£ºNULL
+ºô½ĞÀ´×Ô£ºstd/char/npcsave.c µÄ reload() µÚ 54 ĞĞ£¬Îï¼ş£º d/city/npc/xiaoer#10 ("µêĞ¡¶ş")
+µ÷ÓÃ²ÎÊı£ºreload("xiaoer")
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/save.c µÄ restore() µÚ 19 ĞĞ£¬Îï¼ş£º d/city/npc/xiaoer#10 ("µêĞ¡¶ş")
+µ÷ÓÃ²ÎÊı£ºrestore()
+¾Ö²¿±äÁ¿£º"/data/npc/boss/xiaoer"
+this_player: obj/user#1 ("ÁéİÕ")
+previous_object(0): d/city/npc/xiaoer#10 ("µêĞ¡¶ş")
+previous_object(1): d/city/kezhan
+previous_object(2): d/city/kezhan
+previous_object(3): adm/daemons/logind
++----------------------------------------------------------------------+
+
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ø»÷µÄ³ÌĞòÔ³   (MudOS v21.7) starting up on Microsoft Windows NT - Wed Jan 17 11:32:49 2018
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: gethostbyname:No such file or directory
+adm/obj/simul_efun.c line 1: Warning: Unknown #pragma, ignored.
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 5555.
+Last error 11004
+
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ø»÷µÄ³ÌĞòÔ³   (MudOS v21.7) starting up on Microsoft Windows NT - Wed Jan 17 11:33:06 2018
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: gethostbyname:No such file or directory
+adm/obj/simul_efun.c line 1: Warning: Unknown #pragma, ignored.
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 5555.
+´íÎóÑ¶Ï¢±»À¹½Ø£º
+Ö´ĞĞÊ±¶Î´íÎó£º*restore_object(): Illegal string format while restoring SAVE_NAME.
+
+³ÌĞò£ºfeature/save.c µÚ 19 ĞĞ
+Îï¼ş£º/d/city/npc/xiaoer#12
+ºô½ĞÀ´×Ô£ºadm/daemons/logind.c µÄ get_passwd() µÚ 373 ĞĞ£¬Îï¼ş£º adm/daemons/logind
+µ÷ÓÃ²ÎÊı£ºget_passwd("linghan")
+¾Ö²¿±äÁ¿£º"linghan"
+ºô½ĞÀ´×Ô£ºadm/daemons/logind.c µÄ enter_world() µÚ 703 ĞĞ£¬Îï¼ş£º adm/daemons/logind
+µ÷ÓÃ²ÎÊı£ºenter_world(NULL)
+¾Ö²¿±äÁ¿£ºNULL, NULL, NULL, "/d/city/kezhan", NULL, NULL
+ºô½ĞÀ´×Ô£ºadm/daemons/logind.c µÄ CATCH() µÚ 703 ĞĞ£¬Îï¼ş£º adm/daemons/logind
+µ÷ÓÃ²ÎÊı£ºCATCH()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºd/city/kezhan.c µÄ create() µÚ 30 ĞĞ£¬Îï¼ş£º d/city/kezhan
+µ÷ÓÃ²ÎÊı£ºcreate()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºstd/room.c µÄ setup() µÚ 204 ĞĞ£¬Îï¼ş£º d/city/kezhan
+µ÷ÓÃ²ÎÊı£ºsetup()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºstd/room.c µÄ reset() µÚ 55 ĞĞ£¬Îï¼ş£º d/city/kezhan
+µ÷ÓÃ²ÎÊı£ºreset()
+¾Ö²¿±äÁ¿£º([ ... ]), ([ ... ]), ({ ... }), 1, NULL
+ºô½ĞÀ´×Ô£ºstd/room.c µÄ make_inventory() µÚ 20 ĞĞ£¬Îï¼ş£º d/city/kezhan
+µ÷ÓÃ²ÎÊı£ºmake_inventory("/d/city/npc/xiaoer")
+¾Ö²¿±äÁ¿£ºNULL
+ºô½ĞÀ´×Ô£ºd/city/npc/xiaoer.c µÄ create() µÚ 6 ĞĞ£¬Îï¼ş£º d/city/npc/xiaoer#12 ("µêĞ¡¶ş")
+µ÷ÓÃ²ÎÊı£ºcreate()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/vendor_sale.c µÄ reload() µÚ 475 ĞĞ£¬Îï¼ş£º d/city/npc/xiaoer#12 ("µêĞ¡¶ş")
+µ÷ÓÃ²ÎÊı£ºreload("xiaoer")
+¾Ö²¿±äÁ¿£ºNULL
+ºô½ĞÀ´×Ô£ºstd/char/npcsave.c µÄ reload() µÚ 54 ĞĞ£¬Îï¼ş£º d/city/npc/xiaoer#12 ("µêĞ¡¶ş")
+µ÷ÓÃ²ÎÊı£ºreload("xiaoer")
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/save.c µÄ restore() µÚ 19 ĞĞ£¬Îï¼ş£º d/city/npc/xiaoer#12 ("µêĞ¡¶ş")
+µ÷ÓÃ²ÎÊı£ºrestore()
+¾Ö²¿±äÁ¿£º"/data/npc/boss/xiaoer"
+this_player: obj/user#1 ("ÁéİÕ")
+previous_object(0): d/city/npc/xiaoer#12 ("µêĞ¡¶ş")
+previous_object(1): d/city/kezhan
+previous_object(2): d/city/kezhan
+previous_object(3): adm/daemons/logind
++----------------------------------------------------------------------+
+
+
+Ö´ĞĞÊ±¶Î´íÎó£º*restore_object(): Illegal string format while restoring SAVE_NAME.
+
+³ÌĞò£ºfeature/save.c µÚ 19 ĞĞ
+Îï¼ş£º/d/city/npc/xiaoer#99
+ºô½ĞÀ´×Ô£ºstd/room.c µÄ reset() µÚ 55 ĞĞ£¬Îï¼ş£º d/city/kezhan
+µ÷ÓÃ²ÎÊı£ºreset()
+¾Ö²¿±äÁ¿£º([ ... ]), ([ ... ]), ({ ... }), 1, NULL
+ºô½ĞÀ´×Ô£ºstd/room.c µÄ make_inventory() µÚ 20 ĞĞ£¬Îï¼ş£º d/city/kezhan
+µ÷ÓÃ²ÎÊı£ºmake_inventory("/d/city/npc/xiaoer")
+¾Ö²¿±äÁ¿£ºNULL
+ºô½ĞÀ´×Ô£ºd/city/npc/xiaoer.c µÄ create() µÚ 6 ĞĞ£¬Îï¼ş£º d/city/npc/xiaoer#99 ("µêĞ¡¶ş")
+µ÷ÓÃ²ÎÊı£ºcreate()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/vendor_sale.c µÄ reload() µÚ 475 ĞĞ£¬Îï¼ş£º d/city/npc/xiaoer#99 ("µêĞ¡¶ş")
+µ÷ÓÃ²ÎÊı£ºreload("xiaoer")
+¾Ö²¿±äÁ¿£ºNULL
+ºô½ĞÀ´×Ô£ºstd/char/npcsave.c µÄ reload() µÚ 54 ĞĞ£¬Îï¼ş£º d/city/npc/xiaoer#99 ("µêĞ¡¶ş")
+µ÷ÓÃ²ÎÊı£ºreload("xiaoer")
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/save.c µÄ restore() µÚ 19 ĞĞ£¬Îï¼ş£º d/city/npc/xiaoer#99 ("µêĞ¡¶ş")
+µ÷ÓÃ²ÎÊı£ºrestore()
+¾Ö²¿±äÁ¿£º"/data/npc/boss/xiaoer"
+previous_object(0): d/city/npc/xiaoer#99 ("µêĞ¡¶ş")
+previous_object(1): d/city/kezhan
++----------------------------------------------------------------------+
+
+
+Ö´ĞĞÊ±¶Î´íÎó£º*restore_object(): Illegal string format while restoring SAVE_NAME.
+
+³ÌĞò£ºfeature/save.c µÚ 19 ĞĞ
+Îï¼ş£º/d/city/npc/xiaoer#117
+ºô½ĞÀ´×Ô£ºstd/room.c µÄ reset() µÚ 55 ĞĞ£¬Îï¼ş£º d/city/kezhan
+µ÷ÓÃ²ÎÊı£ºreset()
+¾Ö²¿±äÁ¿£º([ ... ]), ([ ... ]), ({ ... }), 1, NULL
+ºô½ĞÀ´×Ô£ºstd/room.c µÄ make_inventory() µÚ 20 ĞĞ£¬Îï¼ş£º d/city/kezhan
+µ÷ÓÃ²ÎÊı£ºmake_inventory("/d/city/npc/xiaoer")
+¾Ö²¿±äÁ¿£ºNULL
+ºô½ĞÀ´×Ô£ºd/city/npc/xiaoer.c µÄ create() µÚ 6 ĞĞ£¬Îï¼ş£º d/city/npc/xiaoer#117 ("µêĞ¡¶ş")
+µ÷ÓÃ²ÎÊı£ºcreate()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/vendor_sale.c µÄ reload() µÚ 475 ĞĞ£¬Îï¼ş£º d/city/npc/xiaoer#117 ("µêĞ¡¶ş")
+µ÷ÓÃ²ÎÊı£ºreload("xiaoer")
+¾Ö²¿±äÁ¿£ºNULL
+ºô½ĞÀ´×Ô£ºstd/char/npcsave.c µÄ reload() µÚ 54 ĞĞ£¬Îï¼ş£º d/city/npc/xiaoer#117 ("µêĞ¡¶ş")
+µ÷ÓÃ²ÎÊı£ºreload("xiaoer")
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/save.c µÄ restore() µÚ 19 ĞĞ£¬Îï¼ş£º d/city/npc/xiaoer#117 ("µêĞ¡¶ş")
+µ÷ÓÃ²ÎÊı£ºrestore()
+¾Ö²¿±äÁ¿£º"/data/npc/boss/xiaoer"
+previous_object(0): d/city/npc/xiaoer#117 ("µêĞ¡¶ş")
+previous_object(1): d/city/kezhan
++----------------------------------------------------------------------+
+
+][1;32m¡¾ÏµÍ³¡¿ÁéİÕ(Linghan)£º¶ÏÏßÁË¡£
+[2;37;0m
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ø»÷µÄ³ÌĞòÔ³   (MudOS v21.7) starting up on Microsoft Windows NT - Fri Feb 02 18:18:27 2018
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: gethostbyname:No such file or directory
+adm/obj/simul_efun.c line 1: Warning: Unknown #pragma, ignored.
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 5555.
+´íÎóÑ¶Ï¢±»À¹½Ø£º
+Ö´ĞĞÊ±¶Î´íÎó£º*restore_object(): Illegal string format while restoring SAVE_NAME.
+
+³ÌĞò£ºfeature/save.c µÚ 19 ĞĞ
+Îï¼ş£º/d/city/npc/xiaoer#12
+ºô½ĞÀ´×Ô£ºadm/daemons/logind.c µÄ get_passwd() µÚ 373 ĞĞ£¬Îï¼ş£º adm/daemons/logind
+µ÷ÓÃ²ÎÊı£ºget_passwd("linghan")
+¾Ö²¿±äÁ¿£º"linghan"
+ºô½ĞÀ´×Ô£ºadm/daemons/logind.c µÄ enter_world() µÚ 703 ĞĞ£¬Îï¼ş£º adm/daemons/logind
+µ÷ÓÃ²ÎÊı£ºenter_world(NULL)
+¾Ö²¿±äÁ¿£ºNULL, NULL, NULL, "/d/city/kezhan", NULL, NULL
+ºô½ĞÀ´×Ô£ºadm/daemons/logind.c µÄ CATCH() µÚ 703 ĞĞ£¬Îï¼ş£º adm/daemons/logind
+µ÷ÓÃ²ÎÊı£ºCATCH()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºd/city/kezhan.c µÄ create() µÚ 30 ĞĞ£¬Îï¼ş£º d/city/kezhan
+µ÷ÓÃ²ÎÊı£ºcreate()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºstd/room.c µÄ setup() µÚ 204 ĞĞ£¬Îï¼ş£º d/city/kezhan
+µ÷ÓÃ²ÎÊı£ºsetup()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºstd/room.c µÄ reset() µÚ 55 ĞĞ£¬Îï¼ş£º d/city/kezhan
+µ÷ÓÃ²ÎÊı£ºreset()
+¾Ö²¿±äÁ¿£º([ ... ]), ([ ... ]), ({ ... }), 1, NULL
+ºô½ĞÀ´×Ô£ºstd/room.c µÄ make_inventory() µÚ 20 ĞĞ£¬Îï¼ş£º d/city/kezhan
+µ÷ÓÃ²ÎÊı£ºmake_inventory("/d/city/npc/xiaoer")
+¾Ö²¿±äÁ¿£ºNULL
+ºô½ĞÀ´×Ô£ºd/city/npc/xiaoer.c µÄ create() µÚ 6 ĞĞ£¬Îï¼ş£º d/city/npc/xiaoer#12 ("µêĞ¡¶ş")
+µ÷ÓÃ²ÎÊı£ºcreate()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/vendor_sale.c µÄ reload() µÚ 475 ĞĞ£¬Îï¼ş£º d/city/npc/xiaoer#12 ("µêĞ¡¶ş")
+µ÷ÓÃ²ÎÊı£ºreload("xiaoer")
+¾Ö²¿±äÁ¿£ºNULL
+ºô½ĞÀ´×Ô£ºstd/char/npcsave.c µÄ reload() µÚ 54 ĞĞ£¬Îï¼ş£º d/city/npc/xiaoer#12 ("µêĞ¡¶ş")
+µ÷ÓÃ²ÎÊı£ºreload("xiaoer")
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/save.c µÄ restore() µÚ 19 ĞĞ£¬Îï¼ş£º d/city/npc/xiaoer#12 ("µêĞ¡¶ş")
+µ÷ÓÃ²ÎÊı£ºrestore()
+¾Ö²¿±äÁ¿£º"/data/npc/boss/xiaoer"
+this_player: obj/user#1 ("ÁéİÕ")
+previous_object(0): d/city/npc/xiaoer#12 ("µêĞ¡¶ş")
+previous_object(1): d/city/kezhan
+previous_object(2): d/city/kezhan
+previous_object(3): adm/daemons/logind
++----------------------------------------------------------------------+
+
+][1;32m¡¾ÏµÍ³¡¿ÁéİÕ(Linghan)£º¶ÏÏßÁË¡£
+[2;37;0m
+
+
+<<<<<<<<<<<<<<<<<<--------->>>>>>>>>>>>>>>>>>
+using config file: config.cfg
+Initializing internal tables....
+½ø»÷µÄ³ÌĞòÔ³   (MudOS v21.7) starting up on Microsoft Windows NT - Sat Feb 03 12:38:09 2018
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: gethostbyname:No such file or directory
+include/globals.h line 7: Warning: Unknown #pragma, ignored.
+adm/obj/simul_efun.c line 1: Warning: Unknown #pragma, ignored.
+]simul_efun loaded successfully.
+include/globals.h line 7: Warning: Unknown #pragma, ignored.
+
+Loading preloaded files ...
+´íÎóÑ¶Ï¢±»À¹½Ø£º
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/adm/daemons/rankd'
+
+³ÌĞò£ºadm/obj/master.c µÚ 121 ĞĞ
+Îï¼ş£º/adm/obj/master
+ºô½ĞÀ´×Ô£ºadm/obj/master.c µÄ preload() µÚ 121 ĞĞ£¬Îï¼ş£º adm/obj/master
+µ÷ÓÃ²ÎÊı£ºpreload("/adm/daemons/rankd")
+¾Ö²¿±äÁ¿£º1517690289, NULL
+ºô½ĞÀ´×Ô£ºadm/obj/master.c µÄ CATCH() µÚ 121 ĞĞ£¬Îï¼ş£º adm/obj/master
+µ÷ÓÃ²ÎÊı£ºCATCH()
+¾Ö²¿±äÁ¿£º
+previous_object(0): adm/obj/master
++----------------------------------------------------------------------+
+
+Initializations complete.
+
+Accepting connections on port 5555.
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/adm/daemons/rankd'
+
+³ÌĞò£ºd/qujing/wuzhuang/npc/qingfeng.c µÚ 47 ĞĞ
+Îï¼ş£º/d/qujing/wuzhuang/npc/qingfeng#176
+ºô½ĞÀ´×Ô£ºd/qujing/wuzhuang/npc/qingfeng.c µÄ greeting() µÚ 47 ĞĞ£¬Îï¼ş£º d/qujing/wuzhuang/npc/qingfeng#176 ("Çå·ç")
+µ÷ÓÃ²ÎÊı£ºgreeting()
+¾Ö²¿±äÁ¿£º
+this_player: d/qujing/wuzhuang/npc/caoguojiu#172 ("²Ü¹ú¾Ë")
+          <- d/qujing/wuzhuang/zhengdian
+previous_object(0): d/qujing/wuzhuang/npc/qingfeng#176 ("Çå·ç")
++----------------------------------------------------------------------+
+
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/adm/daemons/rankd'
+
+³ÌĞò£ºadm/daemons/logind.c µÚ 892 ĞĞ
+Îï¼ş£º/adm/daemons/logind
+ºô½ĞÀ´×Ô£ºadm/daemons/logind.c µÄ get_gender() µÚ 823 ĞĞ£¬Îï¼ş£º adm/daemons/logind
+µ÷ÓÃ²ÎÊı£ºget_gender("m")
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºadm/daemons/logind.c µÄ confirm_gift() µÚ 892 ĞĞ£¬Îï¼ş£º adm/daemons/logind
+µ÷ÓÃ²ÎÊı£ºconfirm_gift("n")
+¾Ö²¿±äÁ¿£ºNULL, NULL, NULL
+this_player: obj/login#368
+previous_object(0): adm/daemons/logind
++----------------------------------------------------------------------+
+
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/adm/daemons/rankd'
+
+³ÌĞò£ºadm/daemons/logind.c µÚ 892 ĞĞ
+Îï¼ş£º/adm/daemons/logind
+ºô½ĞÀ´×Ô£ºadm/daemons/logind.c µÄ get_gender() µÚ 823 ĞĞ£¬Îï¼ş£º adm/daemons/logind
+µ÷ÓÃ²ÎÊı£ºget_gender("f")
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºadm/daemons/logind.c µÄ confirm_gift() µÚ 892 ĞĞ£¬Îï¼ş£º adm/daemons/logind
+µ÷ÓÃ²ÎÊı£ºconfirm_gift("n")
+¾Ö²¿±äÁ¿£ºNULL, NULL, NULL
+this_player: obj/login#481
+previous_object(0): adm/daemons/logind
++----------------------------------------------------------------------+
+
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/adm/daemons/rankd'
+
+³ÌĞò£ºadm/daemons/emoted.c µÚ 134 ĞĞ
+Îï¼ş£º/adm/daemons/emoted
+ºô½ĞÀ´×Ô£ºd/qujing/zhuzi/npc/pang.c µÄ messaging() µÚ 41 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/pang#715 ("ÅÖµêÖ÷")
+µ÷ÓÃ²ÎÊı£ºmessaging()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºstd/char.c µÄ command() µÚ 227 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/pang#715 ("ÅÖµêÖ÷")
+µ÷ÓÃ²ÎÊı£ºcommand("sleepy shou dianniang")
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 86 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/pang#715 ("ÅÖµêÖ÷")
+µ÷ÓÃ²ÎÊı£ºcommand_hook("shou dianniang")
+¾Ö²¿±äÁ¿£º"sleepy", 0
+ºô½ĞÀ´×Ô£ºadm/daemons/emoted.c µÄ do_emote() µÚ 134 ĞĞ£¬Îï¼ş£º adm/daemons/emoted
+µ÷ÓÃ²ÎÊı£ºdo_emote("sleepy", "shou dianniang", NULL, NULL, NULL)
+¾Ö²¿±äÁ¿£º"ÄãÌÉÔÚ$nµÄ»³ÀïË¯×ÅÁË¡£
+", "ÄĞĞÔ", "Å®ĞÔ", "_target", " ", NULL
+this_player: d/qujing/zhuzi/npc/pang#715 ("ÅÖµêÖ÷")
+          <- d/qujing/zhuzi/zahuo
+previous_object(0): adm/daemons/emoted
+previous_object(1): d/qujing/zhuzi/npc/pang#715 ("ÅÖµêÖ÷")
+previous_object(2): d/qujing/zhuzi/npc/pang#715 ("ÅÖµêÖ÷")
++----------------------------------------------------------------------+
+
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/adm/daemons/rankd'
+
+³ÌĞò£ºadm/daemons/emoted.c µÚ 134 ĞĞ
+Îï¼ş£º/adm/daemons/emoted
+ºô½ĞÀ´×Ô£ºd/qujing/zhuzi/npc/shou.c µÄ messaging() µÚ 30 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/shou#712 ("ÊİµêÄï")
+µ÷ÓÃ²ÎÊı£ºmessaging()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºstd/char.c µÄ command() µÚ 227 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/shou#712 ("ÊİµêÄï")
+µ÷ÓÃ²ÎÊı£ºcommand("slap dianzhu")
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 86 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/shou#712 ("ÊİµêÄï")
+µ÷ÓÃ²ÎÊı£ºcommand_hook("dianzhu")
+¾Ö²¿±äÁ¿£º"slap", 0
+ºô½ĞÀ´×Ô£ºadm/daemons/emoted.c µÄ do_emote() µÚ 134 ĞĞ£¬Îï¼ş£º adm/daemons/emoted
+µ÷ÓÃ²ÎÊı£ºdo_emote("slap", "dianzhu", NULL, NULL, NULL)
+¾Ö²¿±äÁ¿£º"ÄãºİºİŞâÁË$n¼¸¸ö´ó¶ú¹â¡£
+", "Å®ĞÔ", "ÄĞĞÔ", "_target", " ", NULL
+this_player: d/qujing/zhuzi/npc/shou#712 ("ÊİµêÄï")
+          <- d/qujing/zhuzi/zahuo
+previous_object(0): adm/daemons/emoted
+previous_object(1): d/qujing/zhuzi/npc/shou#712 ("ÊİµêÄï")
+previous_object(2): d/qujing/zhuzi/npc/shou#712 ("ÊİµêÄï")
++----------------------------------------------------------------------+
+
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/adm/daemons/rankd'
+
+³ÌĞò£ºadm/daemons/emoted.c µÚ 134 ĞĞ
+Îï¼ş£º/adm/daemons/emoted
+ºô½ĞÀ´×Ô£ºd/qujing/chechi/npc/xiaoguan.c µÄ gives() µÚ 43 ĞĞ£¬Îï¼ş£º d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+µ÷ÓÃ²ÎÊı£ºgives()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºstd/char.c µÄ command_function() µÚ 149 ĞĞ£¬Îï¼ş£º d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+µ÷ÓÃ²ÎÊı£ºcommand_function("hi shang ren")
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 86 ĞĞ£¬Îï¼ş£º d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+µ÷ÓÃ²ÎÊı£ºcommand_hook("shang ren")
+¾Ö²¿±äÁ¿£º"hi", 0
+ºô½ĞÀ´×Ô£ºadm/daemons/emoted.c µÄ do_emote() µÚ 134 ĞĞ£¬Îï¼ş£º adm/daemons/emoted
+µ÷ÓÃ²ÎÊı£ºdo_emote("hi", "shang ren", NULL, NULL, NULL)
+¾Ö²¿±äÁ¿£º"ÄãË«ÊÖ±§È­£¬¶Ô$n×÷ÁË¸öÒ¾µÀ£ºÕâÎ»$RÇëÁË£¡
+", "ÄĞĞÔ", "ÄĞĞÔ", "_target", " ", NULL
+this_player: d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+          <- d/qujing/chechi/xiao
+previous_object(0): adm/daemons/emoted
+previous_object(1): d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+previous_object(2): d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+previous_object(3): d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
++----------------------------------------------------------------------+
+
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/adm/daemons/rankd'
+
+³ÌĞò£ºadm/daemons/emoted.c µÚ 134 ĞĞ
+Îï¼ş£º/adm/daemons/emoted
+ºô½ĞÀ´×Ô£ºd/qujing/chechi/npc/xiaoguan.c µÄ gives() µÚ 43 ĞĞ£¬Îï¼ş£º d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+µ÷ÓÃ²ÎÊı£ºgives()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºstd/char.c µÄ command_function() µÚ 149 ĞĞ£¬Îï¼ş£º d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+µ÷ÓÃ²ÎÊı£ºcommand_function("hi shang ren")
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 86 ĞĞ£¬Îï¼ş£º d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+µ÷ÓÃ²ÎÊı£ºcommand_hook("shang ren")
+¾Ö²¿±äÁ¿£º"hi", 0
+ºô½ĞÀ´×Ô£ºadm/daemons/emoted.c µÄ do_emote() µÚ 134 ĞĞ£¬Îï¼ş£º adm/daemons/emoted
+µ÷ÓÃ²ÎÊı£ºdo_emote("hi", "shang ren", NULL, NULL, NULL)
+¾Ö²¿±äÁ¿£º"ÄãË«ÊÖ±§È­£¬¶Ô$n×÷ÁË¸öÒ¾µÀ£ºÕâÎ»$RÇëÁË£¡
+", "ÄĞĞÔ", "ÄĞĞÔ", "_target", " ", NULL
+this_player: d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+          <- d/qujing/chechi/xiao
+previous_object(0): adm/daemons/emoted
+previous_object(1): d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+previous_object(2): d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+previous_object(3): d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
++----------------------------------------------------------------------+
+
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/adm/daemons/rankd'
+
+³ÌĞò£ºadm/daemons/emoted.c µÚ 134 ĞĞ
+Îï¼ş£º/adm/daemons/emoted
+ºô½ĞÀ´×Ô£ºd/qujing/chechi/npc/xiaoguan.c µÄ gives() µÚ 43 ĞĞ£¬Îï¼ş£º d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+µ÷ÓÃ²ÎÊı£ºgives()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºstd/char.c µÄ command_function() µÚ 149 ĞĞ£¬Îï¼ş£º d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+µ÷ÓÃ²ÎÊı£ºcommand_function("hi shang ren")
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 86 ĞĞ£¬Îï¼ş£º d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+µ÷ÓÃ²ÎÊı£ºcommand_hook("shang ren")
+¾Ö²¿±äÁ¿£º"hi", 0
+ºô½ĞÀ´×Ô£ºadm/daemons/emoted.c µÄ do_emote() µÚ 134 ĞĞ£¬Îï¼ş£º adm/daemons/emoted
+µ÷ÓÃ²ÎÊı£ºdo_emote("hi", "shang ren", NULL, NULL, NULL)
+¾Ö²¿±äÁ¿£º"ÄãË«ÊÖ±§È­£¬¶Ô$n×÷ÁË¸öÒ¾µÀ£ºÕâÎ»$RÇëÁË£¡
+", "ÄĞĞÔ", "ÄĞĞÔ", "_target", " ", NULL
+this_player: d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+          <- d/qujing/chechi/xiao
+previous_object(0): adm/daemons/emoted
+previous_object(1): d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+previous_object(2): d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+previous_object(3): d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
++----------------------------------------------------------------------+
+
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/adm/daemons/rankd'
+
+³ÌĞò£ºadm/daemons/emoted.c µÚ 134 ĞĞ
+Îï¼ş£º/adm/daemons/emoted
+ºô½ĞÀ´×Ô£ºd/qujing/chechi/npc/xiaoguan.c µÄ gives() µÚ 43 ĞĞ£¬Îï¼ş£º d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+µ÷ÓÃ²ÎÊı£ºgives()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºstd/char.c µÄ command_function() µÚ 149 ĞĞ£¬Îï¼ş£º d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+µ÷ÓÃ²ÎÊı£ºcommand_function("hi shang ren")
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 86 ĞĞ£¬Îï¼ş£º d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+µ÷ÓÃ²ÎÊı£ºcommand_hook("shang ren")
+¾Ö²¿±äÁ¿£º"hi", 0
+ºô½ĞÀ´×Ô£ºadm/daemons/emoted.c µÄ do_emote() µÚ 134 ĞĞ£¬Îï¼ş£º adm/daemons/emoted
+µ÷ÓÃ²ÎÊı£ºdo_emote("hi", "shang ren", NULL, NULL, NULL)
+¾Ö²¿±äÁ¿£º"ÄãË«ÊÖ±§È­£¬¶Ô$n×÷ÁË¸öÒ¾µÀ£ºÕâÎ»$RÇëÁË£¡
+", "ÄĞĞÔ", "ÄĞĞÔ", "_target", " ", NULL
+this_player: d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+          <- d/qujing/chechi/xiao
+previous_object(0): adm/daemons/emoted
+previous_object(1): d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+previous_object(2): d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+previous_object(3): d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
++----------------------------------------------------------------------+
+
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/adm/daemons/rankd'
+
+³ÌĞò£ºadm/daemons/emoted.c µÚ 134 ĞĞ
+Îï¼ş£º/adm/daemons/emoted
+ºô½ĞÀ´×Ô£ºd/qujing/chechi/npc/xiaoguan.c µÄ gives() µÚ 43 ĞĞ£¬Îï¼ş£º d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+µ÷ÓÃ²ÎÊı£ºgives()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºstd/char.c µÄ command_function() µÚ 149 ĞĞ£¬Îï¼ş£º d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+µ÷ÓÃ²ÎÊı£ºcommand_function("hi dao ren")
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 86 ĞĞ£¬Îï¼ş£º d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+µ÷ÓÃ²ÎÊı£ºcommand_hook("dao ren")
+¾Ö²¿±äÁ¿£º"hi", 0
+ºô½ĞÀ´×Ô£ºadm/daemons/emoted.c µÄ do_emote() µÚ 134 ĞĞ£¬Îï¼ş£º adm/daemons/emoted
+µ÷ÓÃ²ÎÊı£ºdo_emote("hi", "dao ren", NULL, NULL, NULL)
+¾Ö²¿±äÁ¿£º"ÄãË«ÊÖ±§È­£¬¶Ô$n×÷ÁË¸öÒ¾µÀ£ºÕâÎ»$RÇëÁË£¡
+", "ÄĞĞÔ", "ÄĞĞÔ", "_target", " ", NULL
+this_player: d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+          <- d/qujing/chechi/xiao
+previous_object(0): adm/daemons/emoted
+previous_object(1): d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+previous_object(2): d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+previous_object(3): d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
++----------------------------------------------------------------------+
+
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/adm/daemons/rankd'
+
+³ÌĞò£ºadm/daemons/emoted.c µÚ 134 ĞĞ
+Îï¼ş£º/adm/daemons/emoted
+ºô½ĞÀ´×Ô£ºd/qujing/zhuzi/npc/shou.c µÄ messaging() µÚ 30 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/shou#712 ("ÊİµêÄï")
+µ÷ÓÃ²ÎÊı£ºmessaging()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºstd/char.c µÄ command() µÚ 227 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/shou#712 ("ÊİµêÄï")
+µ÷ÓÃ²ÎÊı£ºcommand("slap dianzhu")
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 86 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/shou#712 ("ÊİµêÄï")
+µ÷ÓÃ²ÎÊı£ºcommand_hook("dianzhu")
+¾Ö²¿±äÁ¿£º"slap", 0
+ºô½ĞÀ´×Ô£ºadm/daemons/emoted.c µÄ do_emote() µÚ 134 ĞĞ£¬Îï¼ş£º adm/daemons/emoted
+µ÷ÓÃ²ÎÊı£ºdo_emote("slap", "dianzhu", NULL, NULL, NULL)
+¾Ö²¿±äÁ¿£º"ÄãºİºİŞâÁË$n¼¸¸ö´ó¶ú¹â¡£
+", "Å®ĞÔ", "ÄĞĞÔ", "_target", " ", NULL
+this_player: d/qujing/zhuzi/npc/shou#712 ("ÊİµêÄï")
+          <- d/qujing/zhuzi/zahuo
+previous_object(0): adm/daemons/emoted
+previous_object(1): d/qujing/zhuzi/npc/shou#712 ("ÊİµêÄï")
+previous_object(2): d/qujing/zhuzi/npc/shou#712 ("ÊİµêÄï")
++----------------------------------------------------------------------+
+
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/adm/daemons/rankd'
+
+³ÌĞò£ºadm/daemons/emoted.c µÚ 134 ĞĞ
+Îï¼ş£º/adm/daemons/emoted
+ºô½ĞÀ´×Ô£ºd/qujing/zhuzi/npc/pang.c µÄ messaging() µÚ 39 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/pang#715 ("ÅÖµêÖ÷")
+µ÷ÓÃ²ÎÊı£ºmessaging()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºstd/char.c µÄ command() µÚ 227 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/pang#715 ("ÅÖµêÖ÷")
+µ÷ÓÃ²ÎÊı£ºcommand("hug shou dianniang")
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 86 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/pang#715 ("ÅÖµêÖ÷")
+µ÷ÓÃ²ÎÊı£ºcommand_hook("shou dianniang")
+¾Ö²¿±äÁ¿£º"hug", 0
+ºô½ĞÀ´×Ô£ºadm/daemons/emoted.c µÄ do_emote() µÚ 134 ĞĞ£¬Îï¼ş£º adm/daemons/emoted
+µ÷ÓÃ²ÎÊı£ºdo_emote("hug", "shou dianniang", NULL, NULL, NULL)
+¾Ö²¿±äÁ¿£º"ÄãÇáÇáµØÓµ×Å$n¡£
+", "ÄĞĞÔ", "Å®ĞÔ", "_target", " ", NULL
+this_player: d/qujing/zhuzi/npc/pang#715 ("ÅÖµêÖ÷")
+          <- d/qujing/zhuzi/zahuo
+previous_object(0): adm/daemons/emoted
+previous_object(1): d/qujing/zhuzi/npc/pang#715 ("ÅÖµêÖ÷")
+previous_object(2): d/qujing/zhuzi/npc/pang#715 ("ÅÖµêÖ÷")
++----------------------------------------------------------------------+
+
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/adm/daemons/rankd'
+
+³ÌĞò£ºadm/daemons/emoted.c µÚ 134 ĞĞ
+Îï¼ş£º/adm/daemons/emoted
+ºô½ĞÀ´×Ô£ºd/qujing/chechi/npc/xiaoguan.c µÄ gives() µÚ 43 ĞĞ£¬Îï¼ş£º d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+µ÷ÓÃ²ÎÊı£ºgives()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºstd/char.c µÄ command_function() µÚ 149 ĞĞ£¬Îï¼ş£º d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+µ÷ÓÃ²ÎÊı£ºcommand_function("hi dao ren")
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 86 ĞĞ£¬Îï¼ş£º d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+µ÷ÓÃ²ÎÊı£ºcommand_hook("dao ren")
+¾Ö²¿±äÁ¿£º"hi", 0
+ºô½ĞÀ´×Ô£ºadm/daemons/emoted.c µÄ do_emote() µÚ 134 ĞĞ£¬Îï¼ş£º adm/daemons/emoted
+µ÷ÓÃ²ÎÊı£ºdo_emote("hi", "dao ren", NULL, NULL, NULL)
+¾Ö²¿±äÁ¿£º"ÄãË«ÊÖ±§È­£¬¶Ô$n×÷ÁË¸öÒ¾µÀ£ºÕâÎ»$RÇëÁË£¡
+", "ÄĞĞÔ", "ÄĞĞÔ", "_target", " ", NULL
+this_player: d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+          <- d/qujing/chechi/xiao
+previous_object(0): adm/daemons/emoted
+previous_object(1): d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+previous_object(2): d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+previous_object(3): d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
++----------------------------------------------------------------------+
+
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/adm/daemons/rankd'
+
+³ÌĞò£ºadm/daemons/emoted.c µÚ 134 ĞĞ
+Îï¼ş£º/adm/daemons/emoted
+ºô½ĞÀ´×Ô£ºd/qujing/zhuzi/npc/cha.c µÄ smiling() µÚ 42 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/cha#1751 ("²è»¨Äï×Ó")
+µ÷ÓÃ²ÎÊı£ºsmiling()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºstd/char.c µÄ command() µÚ 227 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/cha#1751 ("²è»¨Äï×Ó")
+µ÷ÓÃ²ÎÊı£ºcommand("smile chahua niangzi")
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 86 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/cha#1751 ("²è»¨Äï×Ó")
+µ÷ÓÃ²ÎÊı£ºcommand_hook("chahua niangzi")
+¾Ö²¿±äÁ¿£º"smile", 0
+ºô½ĞÀ´×Ô£ºadm/daemons/emoted.c µÄ do_emote() µÚ 134 ĞĞ£¬Îï¼ş£º adm/daemons/emoted
+µ÷ÓÃ²ÎÊı£ºdo_emote("smile", "chahua niangzi", NULL, NULL, NULL)
+¾Ö²¿±äÁ¿£º"Äã¾õµÃÕâÊÀ¼äµÄÒ»ÇĞ¶¼ÄÇÃ´ÃÀºÃ£¬½û²»×¡Â¶³öÁËÎ¢Ğ¦¡£
+", "Å®ĞÔ", "Å®ĞÔ", "_self", 0, " ", NULL
+this_player: d/qujing/zhuzi/npc/cha#1751 ("²è»¨Äï×Ó")
+          <- d/qujing/zhuzi/chafang
+previous_object(0): adm/daemons/emoted
+previous_object(1): d/qujing/zhuzi/npc/cha#1751 ("²è»¨Äï×Ó")
+previous_object(2): d/qujing/zhuzi/npc/cha#1751 ("²è»¨Äï×Ó")
++----------------------------------------------------------------------+
+
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/adm/daemons/rankd'
+
+³ÌĞò£ºadm/daemons/emoted.c µÚ 134 ĞĞ
+Îï¼ş£º/adm/daemons/emoted
+ºô½ĞÀ´×Ô£ºd/qujing/zhuzi/npc/shou.c µÄ messaging() µÚ 30 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/shou#712 ("ÊİµêÄï")
+µ÷ÓÃ²ÎÊı£ºmessaging()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºstd/char.c µÄ command() µÚ 227 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/shou#712 ("ÊİµêÄï")
+µ÷ÓÃ²ÎÊı£ºcommand("slap dianzhu")
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 86 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/shou#712 ("ÊİµêÄï")
+µ÷ÓÃ²ÎÊı£ºcommand_hook("dianzhu")
+¾Ö²¿±äÁ¿£º"slap", 0
+ºô½ĞÀ´×Ô£ºadm/daemons/emoted.c µÄ do_emote() µÚ 134 ĞĞ£¬Îï¼ş£º adm/daemons/emoted
+µ÷ÓÃ²ÎÊı£ºdo_emote("slap", "dianzhu", NULL, NULL, NULL)
+¾Ö²¿±äÁ¿£º"ÄãºİºİŞâÁË$n¼¸¸ö´ó¶ú¹â¡£
+", "Å®ĞÔ", "ÄĞĞÔ", "_target", " ", NULL
+this_player: d/qujing/zhuzi/npc/shou#712 ("ÊİµêÄï")
+          <- d/qujing/zhuzi/zahuo
+previous_object(0): adm/daemons/emoted
+previous_object(1): d/qujing/zhuzi/npc/shou#712 ("ÊİµêÄï")
+previous_object(2): d/qujing/zhuzi/npc/shou#712 ("ÊİµêÄï")
++----------------------------------------------------------------------+
+
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/adm/daemons/rankd'
+
+³ÌĞò£ºadm/daemons/emoted.c µÚ 134 ĞĞ
+Îï¼ş£º/adm/daemons/emoted
+ºô½ĞÀ´×Ô£ºd/qujing/zhuzi/npc/pang.c µÄ messaging() µÚ 41 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/pang#715 ("ÅÖµêÖ÷")
+µ÷ÓÃ²ÎÊı£ºmessaging()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºstd/char.c µÄ command() µÚ 227 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/pang#715 ("ÅÖµêÖ÷")
+µ÷ÓÃ²ÎÊı£ºcommand("sleepy shou dianniang")
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 86 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/pang#715 ("ÅÖµêÖ÷")
+µ÷ÓÃ²ÎÊı£ºcommand_hook("shou dianniang")
+¾Ö²¿±äÁ¿£º"sleepy", 0
+ºô½ĞÀ´×Ô£ºadm/daemons/emoted.c µÄ do_emote() µÚ 134 ĞĞ£¬Îï¼ş£º adm/daemons/emoted
+µ÷ÓÃ²ÎÊı£ºdo_emote("sleepy", "shou dianniang", NULL, NULL, NULL)
+¾Ö²¿±äÁ¿£º"ÄãÌÉÔÚ$nµÄ»³ÀïË¯×ÅÁË¡£
+", "ÄĞĞÔ", "Å®ĞÔ", "_target", " ", NULL
+this_player: d/qujing/zhuzi/npc/pang#715 ("ÅÖµêÖ÷")
+          <- d/qujing/zhuzi/zahuo
+previous_object(0): adm/daemons/emoted
+previous_object(1): d/qujing/zhuzi/npc/pang#715 ("ÅÖµêÖ÷")
+previous_object(2): d/qujing/zhuzi/npc/pang#715 ("ÅÖµêÖ÷")
++----------------------------------------------------------------------+
+
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/adm/daemons/rankd'
+
+³ÌĞò£ºadm/daemons/emoted.c µÚ 134 ĞĞ
+Îï¼ş£º/adm/daemons/emoted
+ºô½ĞÀ´×Ô£ºd/qujing/chechi/npc/daguan.c µÄ gives() µÚ 44 ĞĞ£¬Îï¼ş£º d/qujing/chechi/npc/daguan#1395 ("¹Ü¼Ò")
+µ÷ÓÃ²ÎÊı£ºgives()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºstd/char.c µÄ command_function() µÚ 149 ĞĞ£¬Îï¼ş£º d/qujing/chechi/npc/daguan#1395 ("¹Ü¼Ò")
+µ÷ÓÃ²ÎÊı£ºcommand_function("hi xiao fan")
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 86 ĞĞ£¬Îï¼ş£º d/qujing/chechi/npc/daguan#1395 ("¹Ü¼Ò")
+µ÷ÓÃ²ÎÊı£ºcommand_hook("xiao fan")
+¾Ö²¿±äÁ¿£º"hi", 0
+ºô½ĞÀ´×Ô£ºadm/daemons/emoted.c µÄ do_emote() µÚ 134 ĞĞ£¬Îï¼ş£º adm/daemons/emoted
+µ÷ÓÃ²ÎÊı£ºdo_emote("hi", "xiao fan", NULL, NULL, NULL)
+¾Ö²¿±äÁ¿£º"ÄãË«ÊÖ±§È­£¬¶Ô$n×÷ÁË¸öÒ¾µÀ£ºÕâÎ»$RÇëÁË£¡
+", "ÄĞĞÔ", "ÄĞĞÔ", "_target", " ", NULL
+this_player: d/qujing/chechi/npc/daguan#1395 ("¹Ü¼Ò")
+          <- d/qujing/chechi/da
+previous_object(0): adm/daemons/emoted
+previous_object(1): d/qujing/chechi/npc/daguan#1395 ("¹Ü¼Ò")
+previous_object(2): d/qujing/chechi/npc/daguan#1395 ("¹Ü¼Ò")
+previous_object(3): d/qujing/chechi/npc/daguan#1395 ("¹Ü¼Ò")
++----------------------------------------------------------------------+
+
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/adm/daemons/rankd'
+
+³ÌĞò£ºadm/daemons/emoted.c µÚ 134 ĞĞ
+Îï¼ş£º/adm/daemons/emoted
+ºô½ĞÀ´×Ô£ºd/qujing/zhuzi/npc/wan.c µÄ heheing() µÚ 59 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/wan#1935 ("Íò¿Ú¸£")
+µ÷ÓÃ²ÎÊı£ºheheing()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºstd/char.c µÄ command() µÚ 227 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/wan#1935 ("Íò¿Ú¸£")
+µ÷ÓÃ²ÎÊı£ºcommand("hehe")
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 86 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/wan#1935 ("Íò¿Ú¸£")
+µ÷ÓÃ²ÎÊı£ºcommand_hook(NULL)
+¾Ö²¿±äÁ¿£º"hehe", 0
+ºô½ĞÀ´×Ô£ºadm/daemons/emoted.c µÄ do_emote() µÚ 134 ĞĞ£¬Îï¼ş£º adm/daemons/emoted
+µ÷ÓÃ²ÎÊı£ºdo_emote("hehe", NULL, NULL, NULL, NULL)
+¾Ö²¿±äÁ¿£º"ÄãºÇºÇµØÉµĞ¦ÁË¼¸Éù¡£
+", "ÄĞĞÔ", NULL, "", NULL, " ", NULL
+this_player: d/qujing/zhuzi/npc/wan#1935 ("Íò¿Ú¸£")
+          <- d/qujing/zhuzi/fanlou
+previous_object(0): adm/daemons/emoted
+previous_object(1): d/qujing/zhuzi/npc/wan#1935 ("Íò¿Ú¸£")
+previous_object(2): d/qujing/zhuzi/npc/wan#1935 ("Íò¿Ú¸£")
++----------------------------------------------------------------------+
+
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/adm/daemons/rankd'
+
+³ÌĞò£ºadm/daemons/emoted.c µÚ 134 ĞĞ
+Îï¼ş£º/adm/daemons/emoted
+ºô½ĞÀ´×Ô£ºd/qujing/zhuzi/npc/wan.c µÄ heheing() µÚ 61 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/wan#1935 ("Íò¿Ú¸£")
+µ÷ÓÃ²ÎÊı£ºheheing()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºstd/char.c µÄ command() µÚ 227 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/wan#1935 ("Íò¿Ú¸£")
+µ÷ÓÃ²ÎÊı£ºcommand("bow")
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 86 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/wan#1935 ("Íò¿Ú¸£")
+µ÷ÓÃ²ÎÊı£ºcommand_hook(NULL)
+¾Ö²¿±äÁ¿£º"bow", 0
+ºô½ĞÀ´×Ô£ºadm/daemons/emoted.c µÄ do_emote() µÚ 134 ĞĞ£¬Îï¼ş£º adm/daemons/emoted
+µ÷ÓÃ²ÎÊı£ºdo_emote("bow", NULL, NULL, NULL, NULL)
+¾Ö²¿±äÁ¿£º"ÄãÍäÏÂÉí¾Ï¹ª£¡
+", "ÄĞĞÔ", NULL, "", NULL, " ", NULL
+this_player: d/qujing/zhuzi/npc/wan#1935 ("Íò¿Ú¸£")
+          <- d/qujing/zhuzi/fanlou
+previous_object(0): adm/daemons/emoted
+previous_object(1): d/qujing/zhuzi/npc/wan#1935 ("Íò¿Ú¸£")
+previous_object(2): d/qujing/zhuzi/npc/wan#1935 ("Íò¿Ú¸£")
++----------------------------------------------------------------------+
+
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/adm/daemons/rankd'
+
+³ÌĞò£ºadm/daemons/emoted.c µÚ 134 ĞĞ
+Îï¼ş£º/adm/daemons/emoted
+ºô½ĞÀ´×Ô£ºd/qujing/zhuzi/npc/wan.c µÄ heheing() µÚ 59 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/wan#1935 ("Íò¿Ú¸£")
+µ÷ÓÃ²ÎÊı£ºheheing()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºstd/char.c µÄ command() µÚ 227 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/wan#1935 ("Íò¿Ú¸£")
+µ÷ÓÃ²ÎÊı£ºcommand("hehe")
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 86 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/wan#1935 ("Íò¿Ú¸£")
+µ÷ÓÃ²ÎÊı£ºcommand_hook(NULL)
+¾Ö²¿±äÁ¿£º"hehe", 0
+ºô½ĞÀ´×Ô£ºadm/daemons/emoted.c µÄ do_emote() µÚ 134 ĞĞ£¬Îï¼ş£º adm/daemons/emoted
+µ÷ÓÃ²ÎÊı£ºdo_emote("hehe", NULL, NULL, NULL, NULL)
+¾Ö²¿±äÁ¿£º"ÄãºÇºÇµØÉµĞ¦ÁË¼¸Éù¡£
+", "ÄĞĞÔ", NULL, "", NULL, " ", NULL
+this_player: d/qujing/zhuzi/npc/wan#1935 ("Íò¿Ú¸£")
+          <- d/qujing/zhuzi/fanlou
+previous_object(0): adm/daemons/emoted
+previous_object(1): d/qujing/zhuzi/npc/wan#1935 ("Íò¿Ú¸£")
+previous_object(2): d/qujing/zhuzi/npc/wan#1935 ("Íò¿Ú¸£")
++----------------------------------------------------------------------+
+
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/adm/daemons/rankd'
+
+³ÌĞò£ºadm/daemons/emoted.c µÚ 134 ĞĞ
+Îï¼ş£º/adm/daemons/emoted
+ºô½ĞÀ´×Ô£ºd/qujing/zhuzi/npc/wan.c µÄ heheing() µÚ 59 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/wan#1935 ("Íò¿Ú¸£")
+µ÷ÓÃ²ÎÊı£ºheheing()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºstd/char.c µÄ command() µÚ 227 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/wan#1935 ("Íò¿Ú¸£")
+µ÷ÓÃ²ÎÊı£ºcommand("hehe")
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 86 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/wan#1935 ("Íò¿Ú¸£")
+µ÷ÓÃ²ÎÊı£ºcommand_hook(NULL)
+¾Ö²¿±äÁ¿£º"hehe", 0
+ºô½ĞÀ´×Ô£ºadm/daemons/emoted.c µÄ do_emote() µÚ 134 ĞĞ£¬Îï¼ş£º adm/daemons/emoted
+µ÷ÓÃ²ÎÊı£ºdo_emote("hehe", NULL, NULL, NULL, NULL)
+¾Ö²¿±äÁ¿£º"ÄãºÇºÇµØÉµĞ¦ÁË¼¸Éù¡£
+", "ÄĞĞÔ", NULL, "", NULL, " ", NULL
+this_player: d/qujing/zhuzi/npc/wan#1935 ("Íò¿Ú¸£")
+          <- d/qujing/zhuzi/fanlou
+previous_object(0): adm/daemons/emoted
+previous_object(1): d/qujing/zhuzi/npc/wan#1935 ("Íò¿Ú¸£")
+previous_object(2): d/qujing/zhuzi/npc/wan#1935 ("Íò¿Ú¸£")
++----------------------------------------------------------------------+
+
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/adm/daemons/rankd'
+
+³ÌĞò£ºadm/daemons/emoted.c µÚ 134 ĞĞ
+Îï¼ş£º/adm/daemons/emoted
+ºô½ĞÀ´×Ô£ºd/qujing/chechi/npc/xiaoguan.c µÄ gives() µÚ 43 ĞĞ£¬Îï¼ş£º d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+µ÷ÓÃ²ÎÊı£ºgives()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºstd/char.c µÄ command_function() µÚ 149 ĞĞ£¬Îï¼ş£º d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+µ÷ÓÃ²ÎÊı£ºcommand_function("hi xiao fan")
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 86 ĞĞ£¬Îï¼ş£º d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+µ÷ÓÃ²ÎÊı£ºcommand_hook("xiao fan")
+¾Ö²¿±äÁ¿£º"hi", 0
+ºô½ĞÀ´×Ô£ºadm/daemons/emoted.c µÄ do_emote() µÚ 134 ĞĞ£¬Îï¼ş£º adm/daemons/emoted
+µ÷ÓÃ²ÎÊı£ºdo_emote("hi", "xiao fan", NULL, NULL, NULL)
+¾Ö²¿±äÁ¿£º"ÄãË«ÊÖ±§È­£¬¶Ô$n×÷ÁË¸öÒ¾µÀ£ºÕâÎ»$RÇëÁË£¡
+", "ÄĞĞÔ", "ÄĞĞÔ", "_target", " ", NULL
+this_player: d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+          <- d/qujing/chechi/xiao
+previous_object(0): adm/daemons/emoted
+previous_object(1): d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+previous_object(2): d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+previous_object(3): d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
++----------------------------------------------------------------------+
+
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/adm/daemons/rankd'
+
+³ÌĞò£ºadm/daemons/emoted.c µÚ 134 ĞĞ
+Îï¼ş£º/adm/daemons/emoted
+ºô½ĞÀ´×Ô£ºd/qujing/zhuzi/npc/wan.c µÄ heheing() µÚ 61 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/wan#1935 ("Íò¿Ú¸£")
+µ÷ÓÃ²ÎÊı£ºheheing()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºstd/char.c µÄ command() µÚ 227 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/wan#1935 ("Íò¿Ú¸£")
+µ÷ÓÃ²ÎÊı£ºcommand("bow")
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 86 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/wan#1935 ("Íò¿Ú¸£")
+µ÷ÓÃ²ÎÊı£ºcommand_hook(NULL)
+¾Ö²¿±äÁ¿£º"bow", 0
+ºô½ĞÀ´×Ô£ºadm/daemons/emoted.c µÄ do_emote() µÚ 134 ĞĞ£¬Îï¼ş£º adm/daemons/emoted
+µ÷ÓÃ²ÎÊı£ºdo_emote("bow", NULL, NULL, NULL, NULL)
+¾Ö²¿±äÁ¿£º"ÄãÍäÏÂÉí¾Ï¹ª£¡
+", "ÄĞĞÔ", NULL, "", NULL, " ", NULL
+this_player: d/qujing/zhuzi/npc/wan#1935 ("Íò¿Ú¸£")
+          <- d/qujing/zhuzi/fanlou
+previous_object(0): adm/daemons/emoted
+previous_object(1): d/qujing/zhuzi/npc/wan#1935 ("Íò¿Ú¸£")
+previous_object(2): d/qujing/zhuzi/npc/wan#1935 ("Íò¿Ú¸£")
++----------------------------------------------------------------------+
+
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/adm/daemons/rankd'
+
+³ÌĞò£ºadm/daemons/emoted.c µÚ 134 ĞĞ
+Îï¼ş£º/adm/daemons/emoted
+ºô½ĞÀ´×Ô£ºd/qujing/zhuzi/npc/cha.c µÄ smiling() µÚ 40 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/cha#1751 ("²è»¨Äï×Ó")
+µ÷ÓÃ²ÎÊı£ºsmiling()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºstd/char.c µÄ command() µÚ 227 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/cha#1751 ("²è»¨Äï×Ó")
+µ÷ÓÃ²ÎÊı£ºcommand("smile")
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 86 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/cha#1751 ("²è»¨Äï×Ó")
+µ÷ÓÃ²ÎÊı£ºcommand_hook(NULL)
+¾Ö²¿±äÁ¿£º"smile", 0
+ºô½ĞÀ´×Ô£ºadm/daemons/emoted.c µÄ do_emote() µÚ 134 ĞĞ£¬Îï¼ş£º adm/daemons/emoted
+µ÷ÓÃ²ÎÊı£ºdo_emote("smile", NULL, NULL, NULL, NULL)
+¾Ö²¿±äÁ¿£º"ÄãÓä¿ìµØÎ¢Ğ¦×Å¡£
+", "Å®ĞÔ", NULL, "", NULL, " ", NULL
+this_player: d/qujing/zhuzi/npc/cha#1751 ("²è»¨Äï×Ó")
+          <- d/qujing/zhuzi/chafang
+previous_object(0): adm/daemons/emoted
+previous_object(1): d/qujing/zhuzi/npc/cha#1751 ("²è»¨Äï×Ó")
+previous_object(2): d/qujing/zhuzi/npc/cha#1751 ("²è»¨Äï×Ó")
++----------------------------------------------------------------------+
+
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/adm/daemons/rankd'
+
+³ÌĞò£ºadm/daemons/emoted.c µÚ 134 ĞĞ
+Îï¼ş£º/adm/daemons/emoted
+ºô½ĞÀ´×Ô£ºd/qujing/chechi/npc/xiaoguan.c µÄ gives() µÚ 43 ĞĞ£¬Îï¼ş£º d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+µ÷ÓÃ²ÎÊı£ºgives()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºstd/char.c µÄ command_function() µÚ 149 ĞĞ£¬Îï¼ş£º d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+µ÷ÓÃ²ÎÊı£ºcommand_function("hi xiao fan")
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 86 ĞĞ£¬Îï¼ş£º d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+µ÷ÓÃ²ÎÊı£ºcommand_hook("xiao fan")
+¾Ö²¿±äÁ¿£º"hi", 0
+ºô½ĞÀ´×Ô£ºadm/daemons/emoted.c µÄ do_emote() µÚ 134 ĞĞ£¬Îï¼ş£º adm/daemons/emoted
+µ÷ÓÃ²ÎÊı£ºdo_emote("hi", "xiao fan", NULL, NULL, NULL)
+¾Ö²¿±äÁ¿£º"ÄãË«ÊÖ±§È­£¬¶Ô$n×÷ÁË¸öÒ¾µÀ£ºÕâÎ»$RÇëÁË£¡
+", "ÄĞĞÔ", "ÄĞĞÔ", "_target", " ", NULL
+this_player: d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+          <- d/qujing/chechi/xiao
+previous_object(0): adm/daemons/emoted
+previous_object(1): d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+previous_object(2): d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+previous_object(3): d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
++----------------------------------------------------------------------+
+
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/adm/daemons/rankd'
+
+³ÌĞò£ºadm/daemons/emoted.c µÚ 134 ĞĞ
+Îï¼ş£º/adm/daemons/emoted
+ºô½ĞÀ´×Ô£ºd/qujing/zhuzi/npc/zui.c µÄ drinking() µÚ 37 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/zui#2006 ("×í·½Ğİ")
+µ÷ÓÃ²ÎÊı£ºdrinking()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºstd/char.c µÄ command() µÚ 227 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/zui#2006 ("×í·½Ğİ")
+µ÷ÓÃ²ÎÊı£ºcommand("drink")
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 86 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/zui#2006 ("×í·½Ğİ")
+µ÷ÓÃ²ÎÊı£ºcommand_hook(NULL)
+¾Ö²¿±äÁ¿£º"drink", 0
+ºô½ĞÀ´×Ô£ºadm/daemons/emoted.c µÄ do_emote() µÚ 134 ĞĞ£¬Îï¼ş£º adm/daemons/emoted
+µ÷ÓÃ²ÎÊı£ºdo_emote("drink", NULL, NULL, NULL, NULL)
+¾Ö²¿±äÁ¿£º"Äã»ÎÁË»Î¾ÆÆ¿£¬µÀ£º½ñÌì¿É²»ÄÜÔÙºÈÁË¡£
+", "ÄĞĞÔ", NULL, "", NULL, " ", NULL
+this_player: d/qujing/zhuzi/npc/zui#2006 ("×í·½Ğİ")
+          <- d/qujing/zhuzi/jiudian
+previous_object(0): adm/daemons/emoted
+previous_object(1): d/qujing/zhuzi/npc/zui#2006 ("×í·½Ğİ")
+previous_object(2): d/qujing/zhuzi/npc/zui#2006 ("×í·½Ğİ")
++----------------------------------------------------------------------+
+
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/adm/daemons/rankd'
+
+³ÌĞò£ºadm/daemons/emoted.c µÚ 134 ĞĞ
+Îï¼ş£º/adm/daemons/emoted
+ºô½ĞÀ´×Ô£ºd/qujing/zhuzi/npc/pang.c µÄ messaging() µÚ 39 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/pang#715 ("ÅÖµêÖ÷")
+µ÷ÓÃ²ÎÊı£ºmessaging()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºstd/char.c µÄ command() µÚ 227 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/pang#715 ("ÅÖµêÖ÷")
+µ÷ÓÃ²ÎÊı£ºcommand("hug shou dianniang")
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 86 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/pang#715 ("ÅÖµêÖ÷")
+µ÷ÓÃ²ÎÊı£ºcommand_hook("shou dianniang")
+¾Ö²¿±äÁ¿£º"hug", 0
+ºô½ĞÀ´×Ô£ºadm/daemons/emoted.c µÄ do_emote() µÚ 134 ĞĞ£¬Îï¼ş£º adm/daemons/emoted
+µ÷ÓÃ²ÎÊı£ºdo_emote("hug", "shou dianniang", NULL, NULL, NULL)
+¾Ö²¿±äÁ¿£º"ÄãÇáÇáµØÓµ×Å$n¡£
+", "ÄĞĞÔ", "Å®ĞÔ", "_target", " ", NULL
+this_player: d/qujing/zhuzi/npc/pang#715 ("ÅÖµêÖ÷")
+          <- d/qujing/zhuzi/zahuo
+previous_object(0): adm/daemons/emoted
+previous_object(1): d/qujing/zhuzi/npc/pang#715 ("ÅÖµêÖ÷")
+previous_object(2): d/qujing/zhuzi/npc/pang#715 ("ÅÖµêÖ÷")
++----------------------------------------------------------------------+
+
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/adm/daemons/rankd'
+
+³ÌĞò£ºadm/daemons/emoted.c µÚ 134 ĞĞ
+Îï¼ş£º/adm/daemons/emoted
+ºô½ĞÀ´×Ô£ºd/qujing/zhuzi/npc/shou.c µÄ messaging() µÚ 30 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/shou#712 ("ÊİµêÄï")
+µ÷ÓÃ²ÎÊı£ºmessaging()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºstd/char.c µÄ command() µÚ 227 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/shou#712 ("ÊİµêÄï")
+µ÷ÓÃ²ÎÊı£ºcommand("slap dianzhu")
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 86 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/shou#712 ("ÊİµêÄï")
+µ÷ÓÃ²ÎÊı£ºcommand_hook("dianzhu")
+¾Ö²¿±äÁ¿£º"slap", 0
+ºô½ĞÀ´×Ô£ºadm/daemons/emoted.c µÄ do_emote() µÚ 134 ĞĞ£¬Îï¼ş£º adm/daemons/emoted
+µ÷ÓÃ²ÎÊı£ºdo_emote("slap", "dianzhu", NULL, NULL, NULL)
+¾Ö²¿±äÁ¿£º"ÄãºİºİŞâÁË$n¼¸¸ö´ó¶ú¹â¡£
+", "Å®ĞÔ", "ÄĞĞÔ", "_target", " ", NULL
+this_player: d/qujing/zhuzi/npc/shou#712 ("ÊİµêÄï")
+          <- d/qujing/zhuzi/zahuo
+previous_object(0): adm/daemons/emoted
+previous_object(1): d/qujing/zhuzi/npc/shou#712 ("ÊİµêÄï")
+previous_object(2): d/qujing/zhuzi/npc/shou#712 ("ÊİµêÄï")
++----------------------------------------------------------------------+
+
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/adm/daemons/rankd'
+
+³ÌĞò£ºadm/daemons/emoted.c µÚ 134 ĞĞ
+Îï¼ş£º/adm/daemons/emoted
+ºô½ĞÀ´×Ô£ºd/qujing/chechi/npc/xiaoguan.c µÄ gives() µÚ 43 ĞĞ£¬Îï¼ş£º d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+µ÷ÓÃ²ÎÊı£ºgives()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºstd/char.c µÄ command_function() µÚ 149 ĞĞ£¬Îï¼ş£º d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+µ÷ÓÃ²ÎÊı£ºcommand_function("hi xiao fan")
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 86 ĞĞ£¬Îï¼ş£º d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+µ÷ÓÃ²ÎÊı£ºcommand_hook("xiao fan")
+¾Ö²¿±äÁ¿£º"hi", 0
+ºô½ĞÀ´×Ô£ºadm/daemons/emoted.c µÄ do_emote() µÚ 134 ĞĞ£¬Îï¼ş£º adm/daemons/emoted
+µ÷ÓÃ²ÎÊı£ºdo_emote("hi", "xiao fan", NULL, NULL, NULL)
+¾Ö²¿±äÁ¿£º"ÄãË«ÊÖ±§È­£¬¶Ô$n×÷ÁË¸öÒ¾µÀ£ºÕâÎ»$RÇëÁË£¡
+", "ÄĞĞÔ", "ÄĞĞÔ", "_target", " ", NULL
+this_player: d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+          <- d/qujing/chechi/xiao
+previous_object(0): adm/daemons/emoted
+previous_object(1): d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+previous_object(2): d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+previous_object(3): d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
++----------------------------------------------------------------------+
+
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/adm/daemons/rankd'
+
+³ÌĞò£ºadm/daemons/emoted.c µÚ 134 ĞĞ
+Îï¼ş£º/adm/daemons/emoted
+ºô½ĞÀ´×Ô£ºd/qujing/zhuzi/npc/cha.c µÄ smiling() µÚ 40 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/cha#1751 ("²è»¨Äï×Ó")
+µ÷ÓÃ²ÎÊı£ºsmiling()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºstd/char.c µÄ command() µÚ 227 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/cha#1751 ("²è»¨Äï×Ó")
+µ÷ÓÃ²ÎÊı£ºcommand("smile")
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 86 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/cha#1751 ("²è»¨Äï×Ó")
+µ÷ÓÃ²ÎÊı£ºcommand_hook(NULL)
+¾Ö²¿±äÁ¿£º"smile", 0
+ºô½ĞÀ´×Ô£ºadm/daemons/emoted.c µÄ do_emote() µÚ 134 ĞĞ£¬Îï¼ş£º adm/daemons/emoted
+µ÷ÓÃ²ÎÊı£ºdo_emote("smile", NULL, NULL, NULL, NULL)
+¾Ö²¿±äÁ¿£º"ÄãÓä¿ìµØÎ¢Ğ¦×Å¡£
+", "Å®ĞÔ", NULL, "", NULL, " ", NULL
+this_player: d/qujing/zhuzi/npc/cha#1751 ("²è»¨Äï×Ó")
+          <- d/qujing/zhuzi/chafang
+previous_object(0): adm/daemons/emoted
+previous_object(1): d/qujing/zhuzi/npc/cha#1751 ("²è»¨Äï×Ó")
+previous_object(2): d/qujing/zhuzi/npc/cha#1751 ("²è»¨Äï×Ó")
++----------------------------------------------------------------------+
+
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/adm/daemons/rankd'
+
+³ÌĞò£ºadm/daemons/emoted.c µÚ 134 ĞĞ
+Îï¼ş£º/adm/daemons/emoted
+ºô½ĞÀ´×Ô£ºd/qujing/zhuzi/npc/zui.c µÄ drinking() µÚ 39 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/zui#2006 ("×í·½Ğİ")
+µ÷ÓÃ²ÎÊı£ºdrinking()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºstd/char.c µÄ command() µÚ 227 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/zui#2006 ("×í·½Ğİ")
+µ÷ÓÃ²ÎÊı£ºcommand("drink zui fangxiu")
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 86 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/zui#2006 ("×í·½Ğİ")
+µ÷ÓÃ²ÎÊı£ºcommand_hook("zui fangxiu")
+¾Ö²¿±äÁ¿£º"drink", 0
+ºô½ĞÀ´×Ô£ºadm/daemons/emoted.c µÄ do_emote() µÚ 134 ĞĞ£¬Îï¼ş£º adm/daemons/emoted
+µ÷ÓÃ²ÎÊı£ºdo_emote("drink", "zui fangxiu", NULL, NULL, NULL)
+¾Ö²¿±äÁ¿£º"Äã×íŞ¹Ş¹µØÓÖÄÃÆğÒ»±­£¬µÀ£ºÔÂ¼È²»½âÒû£¬Ó°Í½ËæÎÒÉí¡£
+", "ÄĞĞÔ", "ÄĞĞÔ", "_self", 0, " ", NULL
+this_player: d/qujing/zhuzi/npc/zui#2006 ("×í·½Ğİ")
+          <- d/qujing/zhuzi/jiudian
+previous_object(0): adm/daemons/emoted
+previous_object(1): d/qujing/zhuzi/npc/zui#2006 ("×í·½Ğİ")
+previous_object(2): d/qujing/zhuzi/npc/zui#2006 ("×í·½Ğİ")
++----------------------------------------------------------------------+
+
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/adm/daemons/rankd'
+
+³ÌĞò£ºadm/daemons/emoted.c µÚ 134 ĞĞ
+Îï¼ş£º/adm/daemons/emoted
+ºô½ĞÀ´×Ô£ºd/qujing/chechi/npc/xiaoguan.c µÄ gives() µÚ 43 ĞĞ£¬Îï¼ş£º d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+µ÷ÓÃ²ÎÊı£ºgives()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºstd/char.c µÄ command_function() µÚ 149 ĞĞ£¬Îï¼ş£º d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+µ÷ÓÃ²ÎÊı£ºcommand_function("hi xiao fan")
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 86 ĞĞ£¬Îï¼ş£º d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+µ÷ÓÃ²ÎÊı£ºcommand_hook("xiao fan")
+¾Ö²¿±äÁ¿£º"hi", 0
+ºô½ĞÀ´×Ô£ºadm/daemons/emoted.c µÄ do_emote() µÚ 134 ĞĞ£¬Îï¼ş£º adm/daemons/emoted
+µ÷ÓÃ²ÎÊı£ºdo_emote("hi", "xiao fan", NULL, NULL, NULL)
+¾Ö²¿±äÁ¿£º"ÄãË«ÊÖ±§È­£¬¶Ô$n×÷ÁË¸öÒ¾µÀ£ºÕâÎ»$RÇëÁË£¡
+", "ÄĞĞÔ", "ÄĞĞÔ", "_target", " ", NULL
+this_player: d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+          <- d/qujing/chechi/xiao
+previous_object(0): adm/daemons/emoted
+previous_object(1): d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+previous_object(2): d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
+previous_object(3): d/qujing/chechi/npc/xiaoguan#143 ("Ğ¡¹Ü¼Ò")
++----------------------------------------------------------------------+
+
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/adm/daemons/rankd'
+
+³ÌĞò£ºadm/daemons/emoted.c µÚ 134 ĞĞ
+Îï¼ş£º/adm/daemons/emoted
+ºô½ĞÀ´×Ô£ºd/qujing/zhuzi/npc/wan.c µÄ heheing() µÚ 61 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/wan#1935 ("Íò¿Ú¸£")
+µ÷ÓÃ²ÎÊı£ºheheing()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºstd/char.c µÄ command() µÚ 227 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/wan#1935 ("Íò¿Ú¸£")
+µ÷ÓÃ²ÎÊı£ºcommand("bow")
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 86 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/wan#1935 ("Íò¿Ú¸£")
+µ÷ÓÃ²ÎÊı£ºcommand_hook(NULL)
+¾Ö²¿±äÁ¿£º"bow", 0
+ºô½ĞÀ´×Ô£ºadm/daemons/emoted.c µÄ do_emote() µÚ 134 ĞĞ£¬Îï¼ş£º adm/daemons/emoted
+µ÷ÓÃ²ÎÊı£ºdo_emote("bow", NULL, NULL, NULL, NULL)
+¾Ö²¿±äÁ¿£º"ÄãÍäÏÂÉí¾Ï¹ª£¡
+", "ÄĞĞÔ", NULL, "", NULL, " ", NULL
+this_player: d/qujing/zhuzi/npc/wan#1935 ("Íò¿Ú¸£")
+          <- d/qujing/zhuzi/fanlou
+previous_object(0): adm/daemons/emoted
+previous_object(1): d/qujing/zhuzi/npc/wan#1935 ("Íò¿Ú¸£")
+previous_object(2): d/qujing/zhuzi/npc/wan#1935 ("Íò¿Ú¸£")
++----------------------------------------------------------------------+
+
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/adm/daemons/rankd'
+
+³ÌĞò£ºadm/daemons/emoted.c µÚ 134 ĞĞ
+Îï¼ş£º/adm/daemons/emoted
+ºô½ĞÀ´×Ô£ºd/qujing/zhuzi/npc/shou.c µÄ messaging() µÚ 28 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/shou#712 ("ÊİµêÄï")
+µ÷ÓÃ²ÎÊı£ºmessaging()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºstd/char.c µÄ command() µÚ 227 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/shou#712 ("ÊİµêÄï")
+µ÷ÓÃ²ÎÊı£ºcommand("sneer dianzhu")
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 86 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/shou#712 ("ÊİµêÄï")
+µ÷ÓÃ²ÎÊı£ºcommand_hook("dianzhu")
+¾Ö²¿±äÁ¿£º"sneer", 0
+ºô½ĞÀ´×Ô£ºadm/daemons/emoted.c µÄ do_emote() µÚ 134 ĞĞ£¬Îï¼ş£º adm/daemons/emoted
+µ÷ÓÃ²ÎÊı£ºdo_emote("sneer", "dianzhu", NULL, NULL, NULL)
+¾Ö²¿±äÁ¿£º"Äã¶Ô×Å$n¡¸ºß¡¹µØÀäĞ¦Ò»Éù¡£
+", "Å®ĞÔ", "ÄĞĞÔ", "_target", " ", NULL
+this_player: d/qujing/zhuzi/npc/shou#712 ("ÊİµêÄï")
+          <- d/qujing/zhuzi/zahuo
+previous_object(0): adm/daemons/emoted
+previous_object(1): d/qujing/zhuzi/npc/shou#712 ("ÊİµêÄï")
+previous_object(2): d/qujing/zhuzi/npc/shou#712 ("ÊİµêÄï")
++----------------------------------------------------------------------+
+
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/adm/daemons/rankd'
+
+³ÌĞò£ºadm/daemons/emoted.c µÚ 134 ĞĞ
+Îï¼ş£º/adm/daemons/emoted
+ºô½ĞÀ´×Ô£ºd/qujing/zhuzi/npc/pang.c µÄ messaging() µÚ 41 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/pang#715 ("ÅÖµêÖ÷")
+µ÷ÓÃ²ÎÊı£ºmessaging()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºstd/char.c µÄ command() µÚ 227 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/pang#715 ("ÅÖµêÖ÷")
+µ÷ÓÃ²ÎÊı£ºcommand("sleepy shou dianniang")
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 86 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/pang#715 ("ÅÖµêÖ÷")
+µ÷ÓÃ²ÎÊı£ºcommand_hook("shou dianniang")
+¾Ö²¿±äÁ¿£º"sleepy", 0
+ºô½ĞÀ´×Ô£ºadm/daemons/emoted.c µÄ do_emote() µÚ 134 ĞĞ£¬Îï¼ş£º adm/daemons/emoted
+µ÷ÓÃ²ÎÊı£ºdo_emote("sleepy", "shou dianniang", NULL, NULL, NULL)
+¾Ö²¿±äÁ¿£º"ÄãÌÉÔÚ$nµÄ»³ÀïË¯×ÅÁË¡£
+", "ÄĞĞÔ", "Å®ĞÔ", "_target", " ", NULL
+this_player: d/qujing/zhuzi/npc/pang#715 ("ÅÖµêÖ÷")
+          <- d/qujing/zhuzi/zahuo
+previous_object(0): adm/daemons/emoted
+previous_object(1): d/qujing/zhuzi/npc/pang#715 ("ÅÖµêÖ÷")
+previous_object(2): d/qujing/zhuzi/npc/pang#715 ("ÅÖµêÖ÷")
++----------------------------------------------------------------------+
+
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/adm/daemons/rankd'
+
+³ÌĞò£ºadm/daemons/emoted.c µÚ 134 ĞĞ
+Îï¼ş£º/adm/daemons/emoted
+ºô½ĞÀ´×Ô£ºd/qujing/zhuzi/npc/wan.c µÄ heheing() µÚ 61 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/wan#1935 ("Íò¿Ú¸£")
+µ÷ÓÃ²ÎÊı£ºheheing()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºstd/char.c µÄ command() µÚ 227 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/wan#1935 ("Íò¿Ú¸£")
+µ÷ÓÃ²ÎÊı£ºcommand("bow")
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 86 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/wan#1935 ("Íò¿Ú¸£")
+µ÷ÓÃ²ÎÊı£ºcommand_hook(NULL)
+¾Ö²¿±äÁ¿£º"bow", 0
+ºô½ĞÀ´×Ô£ºadm/daemons/emoted.c µÄ do_emote() µÚ 134 ĞĞ£¬Îï¼ş£º adm/daemons/emoted
+µ÷ÓÃ²ÎÊı£ºdo_emote("bow", NULL, NULL, NULL, NULL)
+¾Ö²¿±äÁ¿£º"ÄãÍäÏÂÉí¾Ï¹ª£¡
+", "ÄĞĞÔ", NULL, "", NULL, " ", NULL
+this_player: d/qujing/zhuzi/npc/wan#1935 ("Íò¿Ú¸£")
+          <- d/qujing/zhuzi/fanlou
+previous_object(0): adm/daemons/emoted
+previous_object(1): d/qujing/zhuzi/npc/wan#1935 ("Íò¿Ú¸£")
+previous_object(2): d/qujing/zhuzi/npc/wan#1935 ("Íò¿Ú¸£")
++----------------------------------------------------------------------+
+
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/adm/daemons/rankd'
+
+³ÌĞò£ºadm/daemons/emoted.c µÚ 134 ĞĞ
+Îï¼ş£º/adm/daemons/emoted
+ºô½ĞÀ´×Ô£ºd/qujing/zhuzi/npc/zui.c µÄ drinking() µÚ 39 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/zui#2006 ("×í·½Ğİ")
+µ÷ÓÃ²ÎÊı£ºdrinking()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºstd/char.c µÄ command() µÚ 227 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/zui#2006 ("×í·½Ğİ")
+µ÷ÓÃ²ÎÊı£ºcommand("drink zui fangxiu")
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 86 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/zui#2006 ("×í·½Ğİ")
+µ÷ÓÃ²ÎÊı£ºcommand_hook("zui fangxiu")
+¾Ö²¿±äÁ¿£º"drink", 0
+ºô½ĞÀ´×Ô£ºadm/daemons/emoted.c µÄ do_emote() µÚ 134 ĞĞ£¬Îï¼ş£º adm/daemons/emoted
+µ÷ÓÃ²ÎÊı£ºdo_emote("drink", "zui fangxiu", NULL, NULL, NULL)
+¾Ö²¿±äÁ¿£º"Äã×íŞ¹Ş¹µØÓÖÄÃÆğÒ»±­£¬µÀ£ºÔÂ¼È²»½âÒû£¬Ó°Í½ËæÎÒÉí¡£
+", "ÄĞĞÔ", "ÄĞĞÔ", "_self", 0, " ", NULL
+this_player: d/qujing/zhuzi/npc/zui#2006 ("×í·½Ğİ")
+          <- d/qujing/zhuzi/jiudian
+previous_object(0): adm/daemons/emoted
+previous_object(1): d/qujing/zhuzi/npc/zui#2006 ("×í·½Ğİ")
+previous_object(2): d/qujing/zhuzi/npc/zui#2006 ("×í·½Ğİ")
++----------------------------------------------------------------------+
+
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/adm/daemons/rankd'
+
+³ÌĞò£ºadm/daemons/emoted.c µÚ 134 ĞĞ
+Îï¼ş£º/adm/daemons/emoted
+ºô½ĞÀ´×Ô£ºd/qujing/zhuzi/npc/wan.c µÄ heheing() µÚ 59 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/wan#1935 ("Íò¿Ú¸£")
+µ÷ÓÃ²ÎÊı£ºheheing()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºstd/char.c µÄ command() µÚ 227 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/wan#1935 ("Íò¿Ú¸£")
+µ÷ÓÃ²ÎÊı£ºcommand("hehe")
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 86 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/wan#1935 ("Íò¿Ú¸£")
+µ÷ÓÃ²ÎÊı£ºcommand_hook(NULL)
+¾Ö²¿±äÁ¿£º"hehe", 0
+ºô½ĞÀ´×Ô£ºadm/daemons/emoted.c µÄ do_emote() µÚ 134 ĞĞ£¬Îï¼ş£º adm/daemons/emoted
+µ÷ÓÃ²ÎÊı£ºdo_emote("hehe", NULL, NULL, NULL, NULL)
+¾Ö²¿±äÁ¿£º"ÄãºÇºÇµØÉµĞ¦ÁË¼¸Éù¡£
+", "ÄĞĞÔ", NULL, "", NULL, " ", NULL
+this_player: d/qujing/zhuzi/npc/wan#1935 ("Íò¿Ú¸£")
+          <- d/qujing/zhuzi/fanlou
+previous_object(0): adm/daemons/emoted
+previous_object(1): d/qujing/zhuzi/npc/wan#1935 ("Íò¿Ú¸£")
+previous_object(2): d/qujing/zhuzi/npc/wan#1935 ("Íò¿Ú¸£")
++----------------------------------------------------------------------+
+
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/adm/daemons/rankd'
+
+³ÌĞò£ºadm/daemons/emoted.c µÚ 134 ĞĞ
+Îï¼ş£º/adm/daemons/emoted
+ºô½ĞÀ´×Ô£ºd/qujing/chechi/npc/daguan.c µÄ gives() µÚ 44 ĞĞ£¬Îï¼ş£º d/qujing/chechi/npc/daguan#1395 ("¹Ü¼Ò")
+µ÷ÓÃ²ÎÊı£ºgives()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºstd/char.c µÄ command_function() µÚ 149 ĞĞ£¬Îï¼ş£º d/qujing/chechi/npc/daguan#1395 ("¹Ü¼Ò")
+µ÷ÓÃ²ÎÊı£ºcommand_function("hi shang ren")
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 86 ĞĞ£¬Îï¼ş£º d/qujing/chechi/npc/daguan#1395 ("¹Ü¼Ò")
+µ÷ÓÃ²ÎÊı£ºcommand_hook("shang ren")
+¾Ö²¿±äÁ¿£º"hi", 0
+ºô½ĞÀ´×Ô£ºadm/daemons/emoted.c µÄ do_emote() µÚ 134 ĞĞ£¬Îï¼ş£º adm/daemons/emoted
+µ÷ÓÃ²ÎÊı£ºdo_emote("hi", "shang ren", NULL, NULL, NULL)
+¾Ö²¿±äÁ¿£º"ÄãË«ÊÖ±§È­£¬¶Ô$n×÷ÁË¸öÒ¾µÀ£ºÕâÎ»$RÇëÁË£¡
+", "ÄĞĞÔ", "ÄĞĞÔ", "_target", " ", NULL
+this_player: d/qujing/chechi/npc/daguan#1395 ("¹Ü¼Ò")
+          <- d/qujing/chechi/da
+previous_object(0): adm/daemons/emoted
+previous_object(1): d/qujing/chechi/npc/daguan#1395 ("¹Ü¼Ò")
+previous_object(2): d/qujing/chechi/npc/daguan#1395 ("¹Ü¼Ò")
+previous_object(3): d/qujing/chechi/npc/daguan#1395 ("¹Ü¼Ò")
++----------------------------------------------------------------------+
+
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/adm/daemons/rankd'
+
+³ÌĞò£ºadm/daemons/emoted.c µÚ 134 ĞĞ
+Îï¼ş£º/adm/daemons/emoted
+ºô½ĞÀ´×Ô£ºd/qujing/zhuzi/npc/zui.c µÄ drinking() µÚ 39 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/zui#2006 ("×í·½Ğİ")
+µ÷ÓÃ²ÎÊı£ºdrinking()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºstd/char.c µÄ command() µÚ 227 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/zui#2006 ("×í·½Ğİ")
+µ÷ÓÃ²ÎÊı£ºcommand("drink zui fangxiu")
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 86 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/zui#2006 ("×í·½Ğİ")
+µ÷ÓÃ²ÎÊı£ºcommand_hook("zui fangxiu")
+¾Ö²¿±äÁ¿£º"drink", 0
+ºô½ĞÀ´×Ô£ºadm/daemons/emoted.c µÄ do_emote() µÚ 134 ĞĞ£¬Îï¼ş£º adm/daemons/emoted
+µ÷ÓÃ²ÎÊı£ºdo_emote("drink", "zui fangxiu", NULL, NULL, NULL)
+¾Ö²¿±äÁ¿£º"Äã×íŞ¹Ş¹µØÓÖÄÃÆğÒ»±­£¬µÀ£ºÔÂ¼È²»½âÒû£¬Ó°Í½ËæÎÒÉí¡£
+", "ÄĞĞÔ", "ÄĞĞÔ", "_self", 0, " ", NULL
+this_player: d/qujing/zhuzi/npc/zui#2006 ("×í·½Ğİ")
+          <- d/qujing/zhuzi/jiudian
+previous_object(0): adm/daemons/emoted
+previous_object(1): d/qujing/zhuzi/npc/zui#2006 ("×í·½Ğİ")
+previous_object(2): d/qujing/zhuzi/npc/zui#2006 ("×í·½Ğİ")
++----------------------------------------------------------------------+
+
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/adm/daemons/rankd'
+
+³ÌĞò£ºadm/daemons/emoted.c µÚ 134 ĞĞ
+Îï¼ş£º/adm/daemons/emoted
+ºô½ĞÀ´×Ô£ºd/qujing/zhuzi/npc/mi.c µÄ winking() µÚ 41 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/mi#155 ("Ã×ÀÏ°å")
+µ÷ÓÃ²ÎÊı£ºwinking()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºstd/char.c µÄ command() µÚ 227 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/mi#155 ("Ã×ÀÏ°å")
+µ÷ÓÃ²ÎÊı£ºcommand("wink2")
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 86 ĞĞ£¬Îï¼ş£º d/qujing/zhuzi/npc/mi#155 ("Ã×ÀÏ°å")
+µ÷ÓÃ²ÎÊı£ºcommand_hook(NULL)
+¾Ö²¿±äÁ¿£º"wink2", 0
+ºô½ĞÀ´×Ô£ºadm/daemons/emoted.c µÄ do_emote() µÚ 134 ĞĞ£¬Îï¼ş£º adm/daemons/emoted
+µ÷ÓÃ²ÎÊı£ºdo_emote("wink2", NULL, NULL, NULL, NULL)
+¾Ö²¿±äÁ¿£º"ÄãµÄÒ»¶ÔĞ¡ÑÛ¾¦¿´ÆğÀ´»¹¹ÖÓĞÉñµÄ¡£
+", "ÄĞĞÔ", NULL, "", NULL, " ", NULL
+this_player: d/qujing/zhuzi/npc/mi#155 ("Ã×ÀÏ°å")
+          <- d/qujing/zhuzi/mipu
+previous_object(0): adm/daemons/emoted
+previous_object(1): d/qujing/zhuzi/npc/mi#155 ("Ã×ÀÏ°å")
+previous_object(2): d/qujing/zhuzi/npc/mi#155 ("Ã×ÀÏ°å")
++----------------------------------------------------------------------+
+
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Error in loading object '/adm/daemons/rankd'
+
+³ÌĞò£ºadm/daemons/emoted.c µÚ 134 ĞĞ
+Îï¼ş£º/adm/daemons/emoted
+ºô½ĞÀ´×Ô£ºd/qujing/chechi/npc/daguan.c µÄ gives() µÚ 44 ĞĞ£¬Îï¼ş£º d/qujing/chechi/npc/daguan#1395 ("¹Ü¼Ò")
+µ÷ÓÃ²ÎÊı£ºgives()
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºstd/char.c µÄ command_function() µÚ 149 ĞĞ£¬Îï¼ş£º d/qujing/chechi/npc/daguan#1395 ("¹Ü¼Ò")
+µ÷ÓÃ²ÎÊı£ºcommand_function("hi xiao fan")
+¾Ö²¿±äÁ¿£º
+ºô½ĞÀ´×Ô£ºfeature/command.c µÄ command_hook() µÚ 86 ĞĞ£¬Îï¼ş£º d/qujing/chechi/npc/daguan#1395 ("¹Ü¼Ò")
+µ÷ÓÃ²ÎÊı£ºcommand_hook("xiao fan")
+¾Ö²¿±äÁ¿£º"hi", 0
+ºô½ĞÀ´×Ô£ºadm/daemons/emoted.c µÄ do_emote() µÚ 134 ĞĞ£¬Îï¼ş£º adm/daemons/emoted
+µ÷ÓÃ²ÎÊı£ºdo_emote("hi", "xiao fan", NULL, NULL, NULL)
+¾Ö²¿±äÁ¿£º"ÄãË«ÊÖ±§È­£¬¶Ô$n×÷ÁË¸öÒ¾µÀ£ºÕâÎ»$RÇëÁË£¡
+", "ÄĞĞÔ", "ÄĞĞÔ", "_target", " ", NULL
+this_player: d/qujing/chechi/npc/daguan#1395 ("¹Ü¼Ò")
+          <- d/qujing/chechi/da
+previous_object(0): adm/daemons/emoted
+previous_object(1): d/qujing/chechi/npc/daguan#1395 ("¹Ü¼Ò")
+previous_object(2): d/qujing/chechi/npc/daguan#1395 ("¹Ü¼Ò")
+previous_object(3): d/qujing/chechi/npc/daguan#1395 ("¹Ü¼Ò")
++----------------------------------------------------------------------+
+

@@ -37,6 +37,7 @@ TEXT
         set("objects", 
         ([ //sizeof() == 1
                 __DIR__"npc/tiesuanpan" : 1,
+                __DIR__"npc/linger" : 1,
         ]));
 
 

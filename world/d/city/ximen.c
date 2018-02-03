@@ -20,6 +20,8 @@ LONG);
                 "east" : __DIR__"baihu-w3",
                 "north" : "/d/city/heishi",
                 "northwest" : "/d/wudang1/wdroad4",
+                "ii" : __DIR__"ii",
+                "in" : __DIR__"i",
         ]));
 
         set("objects", 
