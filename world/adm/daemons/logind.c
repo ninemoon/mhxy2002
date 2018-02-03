@@ -36,6 +36,7 @@ int howmany_user();
 private void encoding(string arg, object ob);
 private void if_young(string arg, object ob);
 private void get_id(string arg, object ob);
+private void get_npc(string arg, object ob);
 private void confirm_id(string yn, object ob);
 object make_body(object ob);
 varargs void enter_world(object ob, object user, int silent);
@@ -423,6 +424,10 @@ private void get_id(string arg, object ob)
 		return;
 	}
 	if(arg=="npc"){
+		write("\n请您输入npc的id好吗？");
+		input_to("get_npc",ob); 
+		write(BRED+HIC"您的相应密码"NOR":"NOR"");
+		input_to("get_passwd", 1, ob);  
 		return;
 	}else if( arg=="guest" ) {
 		// If guest, let them create the character.
@@ -460,6 +465,7 @@ write ("对不起，这个账号已经被冻结,还有"+(freeze_time+3600-time())/3600 +"小时才
              return;
         }       
 }                      
+
 private void get_new_id(string arg, object ob)
 {
         object ppl;
@@ -516,8 +522,47 @@ private void get_new_id(string arg, object ob)
 	return;
 }
 
-                      
 
+private void get_npc(string arg, object ob)
+{
+	object ppl;
+	int id_count;
+
+	write("runing get_npc:"  + arg);
+	if(!ob) return;
+
+	id_count=ob->query_temp("id_count");
+	write("runing get_npc ob_id:"  + id_count);
+	write("runing get_npc ob_SaveFile:"  + ob->query_save_file());
+
+	if(!arg) {
+		write("没有信息，请您输入名字：");
+		input_to("get_npc", ob);
+		return;
+	}
+
+	arg = lower_case(arg); 
+
+	if( (string)ob->set("id", arg) != arg ) {
+		write("Failed setting user name.\n");
+		destruct(ob);
+		return;
+	}
+
+	ppl = find_body(arg);
+	if(ppl || arg=="guest" || arg=="new") {
+		write("这个名字已经被别的玩家使用了．．．"); 
+	}
+
+	if( file_size(ob->query_save_file() 
+		+ __SAVE_EXTENSION__) >= 0 ) {
+			write("这个名字已经被别的玩家使用了");
+			write("算了，还是进来吧！"); 
+	} 
+
+	confirm_id("Yes", ob);
+	return;
+}
 private void get_passwd(string pass, object ob)
 {
 	string my_pass,id;
@@ -1107,7 +1152,8 @@ int check_legal_id(string id)
 	for(i=0; i<sizeof(legalid); i++)   {
 	   if( id == legalid[i] )   {
 		  write("对不起，这种名字会造成其他人的困扰。\n");
-		  return 0;
+		  write("这次先放过你吧。\n");
+		  //return 0;
        }
 	}
 	return 1;
@@ -1135,7 +1181,7 @@ int check_legal_name(string name)
 	}
 	if( member_array(name, banned_name)!=-1 ) {
 		write("对不起，这种名字会造成其他人的困扰。\n");
-		return 0;
+		//return 0;
 	}
 
 	return 1;
