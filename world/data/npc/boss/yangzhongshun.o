@@ -1,0 +1,7 @@
+#/d/shenjian/npc/yaoren.c
+dbase (["env":(["wimpy":50,]),"startroom":"/d/shenjian/yaodian","attitude":"friendly","can_speak":1,"kar":14,"limbs":({"Í·²¿","¾±²¿","ĞØ¿Ú","ºóĞÄ","×ó¼ç","ÓÒ¼ç","×ó±Û","ÓÒ±Û","×óÊÖ","ÓÒÊÖ","Ñü¼ä","Ğ¡¸¹","×óÍÈ","ÓÒÍÈ","×ó½Å","ÓÒ½Å",}),"str":12,"cps":17,"int":17,"vendor_goods":(["dan":"/d/obj/drug/hunyuandan","yao":"/d/obj/drug/jinchuang","taogan":"/d/obj/drug/fake-tao",]),"long":"ËûÊÇÒ»¸ö´÷×ÅÑÛ¾µµÄÖĞÄêÀÏ°å,³¤µÄ²»¿°ÈëÄ¿,¾ø¶ÔÊÇ¼«Æ·ÖĞµÄ¼«Æ·¡£","cor":21,"con":30,"spi":24,"per":14,"actions":,"title":"[37mÒ©µêÀÏ°å[2;37;0m","max_kee":300,"default_actions":,"sen":200,"race":"ÈËÀà","max_sen":200,"inquiry":(["ÖÎÉË":,"ÁÆÉË":,"¿ªÒ©":,]),"eff_gin":484,"gin":484,"force":0,"age":18,"kee":300,"combat_exp":10000,"name":"ÒõÀÏ°å","gender":"ÎŞĞÔ","id":"yinlao ban","unit":"Î»","mana":0,"eff_kee":300,"eff_sen":200,"atman":0,"max_gin":484,])
+skills (["unarmed":60,"literate":70,"dodge":60,])
+learned (["unarmed":0,"literate":0,"dodge":0,])
+SAVE_NAME "yangzhongshun"
+price_ratio 10
+close_time 1517870565

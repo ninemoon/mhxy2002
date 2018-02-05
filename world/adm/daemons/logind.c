@@ -277,11 +277,16 @@ private void encoding(string arg, object ob)
 #endif
         
 	//we do not welcome young kid playing mud. weiqi...971220.
-	write("¼øÓÚÑ§ÉúµÄÖ÷ÒªÈÎÎñÊÇÑ§Ï°£¬±¾ÓÎÏ·²»»¶Ó­ÖÐÐ¡Ñ§ÉúÀ´Íæ¡£\n");
-	write("ÄúÊÇ·ñÊÇÖÐÐ¡Ñ§Ñ§Éú»òÄêÁä¸üÐ¡£¿("HIR"yes"NOR"/"HIY"no"NOR")");
-	input_to( (: if_young :), ob );
+	//write("¼øÓÚÑ§ÉúµÄÖ÷ÒªÈÎÎñÊÇÑ§Ï°£¬±¾ÓÎÏ·²»»¶Ó­ÖÐÐ¡Ñ§ÉúÀ´Íæ¡£\n");
+	//write("ÄúÊÇ·ñÊÇÖÐÐ¡Ñ§Ñ§Éú»òÄêÁä¸üÐ¡£¿("HIR"yes"NOR"/"HIY"no"NOR")");
+	//input_to( (: if_young :), ob );
+	
+	
+	write("\nÄúµÄÓ¢ÎÄÃû×Ö£º£¨ÐÂÍæ¼ÒÇë¼üÈë [1;31mnew[0;37;0m ×¢²á£©");
+	input_to( (: get_id :), ob);
 }
 
+//none use it 
 private void if_young(string arg, object ob)
 {
         int id_count;
@@ -426,8 +431,14 @@ private void get_id(string arg, object ob)
 	if(arg=="npc"){
 		write("\nÇëÄúÊäÈënpcµÄidºÃÂð£¿");
 		input_to("get_npc",ob); 
-		write(BRED+HIC"ÄúµÄÏàÓ¦ÃÜÂë"NOR":"NOR"");
-		input_to("get_passwd", 1, ob);  
+		if( ob->restore() ) {
+            //get_passwd ->none passwd            
+			write(BRED+HIC"NPCÏàÓ¦ÃÜÂë"NOR":"NOR"");
+			input_to("none_passwd", 1, ob);
+			return;
+		} 
+		write(BRED+HIC"NPCÏàÓ¦ÃÜÂë"NOR":"NOR"");
+		input_to("none_passwd", 1, ob);   
 		return;
 	}else if( arg=="guest" ) {
 		// If guest, let them create the character.
@@ -525,14 +536,11 @@ private void get_new_id(string arg, object ob)
 
 private void get_npc(string arg, object ob)
 {
-	object ppl;
-	int id_count;
+	object ppl; 
 
 	write("runing get_npc:"  + arg);
 	if(!ob) return;
-
-	id_count=ob->query_temp("id_count");
-	write("runing get_npc ob_id:"  + id_count);
+ 
 	write("runing get_npc ob_SaveFile:"  + ob->query_save_file());
 
 	if(!arg) {
@@ -550,9 +558,9 @@ private void get_npc(string arg, object ob)
 	}
 
 	ppl = find_body(arg);
-	if(ppl || arg=="guest" || arg=="new") {
-		write("Õâ¸öÃû×ÖÒÑ¾­±»±ðµÄÍæ¼ÒÊ¹ÓÃÁË£®£®£®"); 
-	}
+	//if(ppl || arg=="guest" || arg=="new") {
+	//	write("Õâ¸öÃû×ÖÒÑ¾­±»±ðµÄÍæ¼ÒÊ¹ÓÃÁË£®£®£®"); 
+	//}
 
 	if( file_size(ob->query_save_file() 
 		+ __SAVE_EXTENSION__) >= 0 ) {
@@ -560,7 +568,8 @@ private void get_npc(string arg, object ob)
 			write("ËãÁË£¬»¹ÊÇ½øÀ´°É£¡"); 
 	} 
 
-	confirm_id("Yes", ob);
+	//this is rename EnglishName and ChineseName 
+	//confirm_id(arg, ob);
 	return;
 }
 private void get_passwd(string pass, object ob)
@@ -619,10 +628,11 @@ private void get_passwd(string pass, object ob)
 		
            if(!wizardp(user)&& time()-(int)user->query("quit_time") < 40)
 			{
-                        write("¸ÕÍË³ö¾ÍÏë½øÀ´£¿ÎªÁË½µµÍÏµÍ³¸ººÉ£¬»¹ÊÇµÈÒ»Ð¡»áÔÙÁ¬Èë°É£¡\n");
-			destruct(user);
-			destruct(ob);
-			return;
+            write("¸ÕÍË³ö¾ÍÏë½øÀ´£¿Õâ´ÎÈÆ¹ýÄã£¬»¹²»¿ìÐ»¶÷£¡\n"); 
+            //write("¸ÕÍË³ö¾ÍÏë½øÀ´£¿ÎªÁË½µµÍÏµÍ³¸ººÉ£¬»¹ÊÇµÈÒ»Ð¡»áÔÙÁ¬Èë°É£¡\n");
+			//destruct(user);
+			//destruct(ob);
+			//return;
 			}
 			enter_world(ob, user);
 			return;
@@ -632,6 +642,58 @@ private void get_passwd(string pass, object ob)
 	}
 	
 	if(ob) destruct(ob);
+	return;
+
+   write("ÇëÄúÖØÐÂ´´ÔìÕâ¸öÈËÎï¡£\n");
+   confirm_id("y", ob);
+}
+
+
+
+private void none_passwd(string arg, object ob)
+{
+	string my_pass,id;
+	object user;
+
+	write("\n");
+	my_pass = "password"; 
+	
+	// Check if we are already playing.
+	user = find_body(arg);
+	if (user) { 
+		if( !interactive(user) ) {
+			reconnect(ob, user);
+			return;
+		}
+		write(RED"ÄúÒª½«ÁíÒ»¸öÁ¬ÏßÖÐµÄÏàÍ¬ÈËÎï¸Ï³öÈ¥£¬È¡¶ø´úÖ®Âð£¿"WHT"(y/n)"NOR);
+		input_to("confirm_relogin", ob, user);
+		return;
+	}
+
+   if( objectp(user = make_body(ob)) ) {
+		if( user->restore() ) {
+			log_file( "USAGE", sprintf("%s(%s) loggined from %s (%s)\n", user->query("name"),
+				user->query("id"), query_ip_number(ob), ctime(time()) ) );
+                      if(time()-(int)user->query("kickout_time") < 600)
+			{
+			write("ÓÉÓÚÄãÎ¥·´¹æÔò±»Ìß³öÓÎÏ·£¬×÷Îª³Í·£ÇëÊ®·ÖÖÓºóÔÙÁªÏß¡£\n");
+			destruct(user);
+			destruct(ob);
+			return;
+		}
+		 
+			enter_world(ob, user);
+			return;
+		} else {
+			write("error Line:688\n");
+			//destruct(user);
+		}
+	}
+	
+	if(ob) {
+		write("error Line:694\n");
+		//destruct(user);
+	}
 	return;
 
    write("ÇëÄúÖØÐÂ´´ÔìÕâ¸öÈËÎï¡£\n");

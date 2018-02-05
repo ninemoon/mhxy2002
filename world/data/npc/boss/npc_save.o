@@ -1,0 +1,5 @@
+#/d/qujing/wudidong/npc/maicaide.c
+dbase (["title":"和蔼的","sen":468,"startroom":"/d/qujing/wudidong/sucaidian","vendor_goods":(["guaguoshucai":"/d/obj/food/sucai",]),"long":"蔡大嫂正对你笑着呢,手里还不停的摆弄着蔬菜。","eff_gin":436,"gin":436,"age":32,"actions":,"kee":286,"kar":23,"combat_exp":100,"unit":"位","str":12,"race":"人类","max_kee":286,"name":"蔡大嫂","attitude":"friendly","cps":14,"default_actions":,"max_sen":468,"gender":"女性","int":16,"can_speak":1,"cor":24,"con":10,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"spi":21,"id":"cai dasao","eff_kee":286,"per":25,"eff_sen":468,"max_gin":436,])
+SAVE_NAME "npc_save"
+price_ratio 10
+close_time 1517881539

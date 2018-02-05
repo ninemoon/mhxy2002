@@ -1,0 +1,7 @@
+#/d/qujing/zhuzi/npc/cha.c
+dbase (["startroom":"/d/qujing/zhuzi/chafang","attitude":"friendly","can_speak":1,"kar":20,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"str":24,"shen_type":1,"shop_id":({"niangzi",}),"cps":26,"int":24,"vendor_goods":(["huasheng":"/d/qujing/zhuzi/obj/huasheng","guazi":"/d/qujing/zhuzi/obj/guazi","chahu":"/d/obj/food/chahu","chagan":"/d/qujing/zhuzi/obj/chagan",]),"cor":25,"con":29,"spi":14,"per":34,"actions":,"sen":494,"max_kee":676,"default_actions":,"race":"人类","max_sen":494,"age":30,"force":0,"gin":324,"eff_gin":324,"combat_exp":5000,"kee":676,"name":"茶花娘子","gender":"女性","id":"chahua niangzi","unit":"位","mana":0,"eff_kee":676,"eff_sen":494,"atman":0,"max_gin":324,])
+skills (["unarmed":50,])
+learned (["unarmed":0,])
+SAVE_NAME "zhuzi_chahua_niangzi"
+price_ratio 10
+close_time 1517875639

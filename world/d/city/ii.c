@@ -21,6 +21,7 @@ LONG);
                 "northwest" : "/d/wudang1/wdroad4",
 				"change" : "/d/moon/npc/change" ,
                 "jia" : "/d/city/obj/jia"  ,
+                "iii" : "/d/city/iii"  ,
         ]));
 
         set("objects", 

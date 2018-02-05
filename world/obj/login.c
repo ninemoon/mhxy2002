@@ -48,6 +48,10 @@ string query_save_file()
 	string id;
 
 	id = query("id", 1);
+	//copy from user.c
+    if( !id ) id = geteuid();
+    if( !id ) id = getuid();
+		
 	if( !stringp(id) ) return 0;
 	return sprintf(DATA_DIR "login/%c/%s", id[0], id);
 }

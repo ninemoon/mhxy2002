@@ -79,3 +79,855 @@ Loading preloaded files ...
 Initializations complete.
 
 Accepting connections on port 6666.
+
+执行时段错误：*Error in loading object '/d/city/obj/jia'
+
+程序：std/room.c 第 18 行
+物件：/d/city/i
+呼叫来自：feature/command.c 的 command_hook() 第 79 行，物件： obj/user#557 ("灵菡")
+调用参数：command_hook(NULL)
+局部变量："in", "/cmds/std/go"
+呼叫来自：cmds/std/go.c 的 main() 第 72 行，物件： cmds/std/go
+调用参数：main("in", NULL)
+局部变量："/d/city/i", NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, ([ ... ]), NULL, ([ ... ]), ([ ... ]), ([ ... ]), ([ ... ])
+呼叫来自：d/city/i.c 的 create() 第 36 行，物件： d/city/i
+调用参数：create()
+局部变量：
+呼叫来自：std/room.c 的 setup() 第 223 行，物件： d/city/i
+调用参数：setup()
+局部变量：
+呼叫来自：std/room.c 的 reset() 第 64 行，物件： d/city/i
+调用参数：reset()
+局部变量：([ ... ]), ([ ... ]), ({ ... }), 3, 3, ({ ... })
+呼叫来自：std/room.c 的 make_inventory() 第 18 行，物件： d/city/i
+调用参数：make_inventory("/d/city/obj/jia")
+局部变量：NULL
+this_player: obj/user#557 ("灵菡")
+          <- d/city/ximen
+previous_object(0): d/city/i
+previous_object(1): d/city/i
+previous_object(2): cmds/std/go
+previous_object(3): obj/user#557 ("灵菡")
++----------------------------------------------------------------------+
+
+
+执行时段错误：*Error in loading object '/d/city/obj/jia'
+
+程序：std/room.c 第 18 行
+物件：/d/city/ii
+呼叫来自：feature/command.c 的 command_hook() 第 79 行，物件： obj/user#557 ("灵菡")
+调用参数：command_hook(NULL)
+局部变量："ii", "/cmds/std/go"
+呼叫来自：cmds/std/go.c 的 main() 第 72 行，物件： cmds/std/go
+调用参数：main("ii", NULL)
+局部变量："/d/city/ii", NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, ([ ... ]), NULL, ([ ... ]), ([ ... ]), ([ ... ]), ([ ... ])
+呼叫来自：d/city/ii.c 的 create() 第 39 行，物件： d/city/ii
+调用参数：create()
+局部变量：
+呼叫来自：std/room.c 的 setup() 第 223 行，物件： d/city/ii
+调用参数：setup()
+局部变量：
+呼叫来自：std/room.c 的 reset() 第 64 行，物件： d/city/ii
+调用参数：reset()
+局部变量：([ ... ]), ([ ... ]), ({ ... }), 3, 3, ({ ... })
+呼叫来自：std/room.c 的 make_inventory() 第 18 行，物件： d/city/ii
+调用参数：make_inventory("/d/city/obj/jia")
+局部变量：NULL
+this_player: obj/user#557 ("灵菡")
+          <- d/city/ximen
+previous_object(0): d/city/ii
+previous_object(1): d/city/ii
+previous_object(2): cmds/std/go
+previous_object(3): obj/user#557 ("灵菡")
++----------------------------------------------------------------------+
+
+
+执行时段错误：*Error in loading object '/d/city/obj/jia'
+
+程序：cmds/std/go.c 第 72 行
+物件：/cmds/std/go
+呼叫来自：feature/command.c 的 command_hook() 第 79 行，物件： obj/user#557 ("灵菡")
+调用参数：command_hook(NULL)
+局部变量："jia", "/cmds/std/go"
+呼叫来自：cmds/std/go.c 的 main() 第 72 行，物件： cmds/std/go
+调用参数：main("jia", NULL)
+局部变量："/d/city/obj/jia", NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, ([ ... ]), NULL, ([ ... ]), ([ ... ]), ([ ... ]), ([ ... ])
+this_player: obj/user#557 ("灵菡")
+          <- d/city/ii
+previous_object(0): cmds/std/go
+previous_object(1): obj/user#557 ("灵菡")
++----------------------------------------------------------------------+
+
+
+执行时段错误：*Error in loading object '/d/city/obj/jia'
+
+程序：std/room.c 第 18 行
+物件：/d/city/i
+呼叫来自：std/room.c 的 reset() 第 64 行，物件： d/city/i
+调用参数：reset()
+局部变量：([ ... ]), ([ ... ]), ({ ... }), 3, 3, ({ ... })
+呼叫来自：std/room.c 的 make_inventory() 第 18 行，物件： d/city/i
+调用参数：make_inventory("/d/city/obj/jia")
+局部变量：NULL
+previous_object(0): d/city/i
++----------------------------------------------------------------------+
+
+
+执行时段错误：*Error in loading object '/d/city/obj/jia'
+
+程序：std/room.c 第 18 行
+物件：/d/city/ii
+呼叫来自：std/room.c 的 reset() 第 64 行，物件： d/city/ii
+调用参数：reset()
+局部变量：([ ... ]), ([ ... ]), ({ ... }), 3, 3, ({ ... })
+呼叫来自：std/room.c 的 make_inventory() 第 18 行，物件： d/city/ii
+调用参数：make_inventory("/d/city/obj/jia")
+局部变量：NULL
+previous_object(0): d/city/ii
++----------------------------------------------------------------------+
+
+
+执行时段错误：*Error in loading object '/d/city/obj/jia'
+
+程序：std/room.c 第 18 行
+物件：/d/city/i
+呼叫来自：std/room.c 的 reset() 第 64 行，物件： d/city/i
+调用参数：reset()
+局部变量：([ ... ]), ([ ... ]), ({ ... }), 3, 3, ({ ... })
+呼叫来自：std/room.c 的 make_inventory() 第 18 行，物件： d/city/i
+调用参数：make_inventory("/d/city/obj/jia")
+局部变量：NULL
+previous_object(0): d/city/i
++----------------------------------------------------------------------+
+
+Initializing internal tables....
+
+<---梦幻西游: MudOs v22pre11 (by wwj,Jan  1 1999) startup on Microsoft Windows NT at Sat Feb 03 17:01:30 2018
+
+using config file: D:\app\mhxy2002\config.mhxy
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 6666.
+Initializing internal tables....
+
+<---梦幻西游: MudOs v22pre11 (by wwj,Jan  1 1999) startup on Microsoft Windows NT at Sat Feb 03 17:15:46 2018
+
+using config file: D:\app\mhxy2002\config.mhxy
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 6666.
+Initializing internal tables....
+
+<---梦幻西游: MudOs v22pre11 (by wwj,Jan  1 1999) startup on Microsoft Windows NT at Sat Feb 03 17:32:30 2018
+
+using config file: D:\app\mhxy2002\config.mhxy
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+错误讯息被拦截：
+执行时段错误：*Error in loading object '/adm/daemons/logind'
+
+程序：adm/obj/master.c 第 121 行
+物件：/adm/obj/master
+呼叫来自：adm/obj/master.c 的 preload() 第 121 行，物件： adm/obj/master
+调用参数：preload("/adm/daemons/logind")
+局部变量：1517650351, NULL
+呼叫来自：adm/obj/master.c 的 CATCH() 第 121 行，物件： adm/obj/master
+调用参数：CATCH()
+局部变量：
+previous_object(0): adm/obj/master
++----------------------------------------------------------------------+
+
+Initializations complete.
+
+Accepting connections on port 6666.
+
+执行时段错误：*Error in loading object '/adm/daemons/logind'
+
+程序：obj/login.c 第 12 行
+物件：/obj/login#430
+呼叫来自：obj/login.c 的 logon() 第 12 行，物件： obj/login#430
+调用参数：logon()
+局部变量：
+this_player: obj/login#430
+previous_object(0): obj/login#430
++----------------------------------------------------------------------+
+
+Initializing internal tables....
+
+<---梦幻西游: MudOs v22pre11 (by wwj,Jan  1 1999) startup on Microsoft Windows NT at Sat Feb 03 17:33:15 2018
+
+using config file: D:\app\mhxy2002\config.mhxy
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+错误讯息被拦截：
+执行时段错误：*Error in loading object '/adm/daemons/logind'
+
+程序：adm/obj/master.c 第 121 行
+物件：/adm/obj/master
+呼叫来自：adm/obj/master.c 的 preload() 第 121 行，物件： adm/obj/master
+调用参数：preload("/adm/daemons/logind")
+局部变量：1517650396, NULL
+呼叫来自：adm/obj/master.c 的 CATCH() 第 121 行，物件： adm/obj/master
+调用参数：CATCH()
+局部变量：
+previous_object(0): adm/obj/master
++----------------------------------------------------------------------+
+
+Initializations complete.
+
+Accepting connections on port 6666.
+
+执行时段错误：*Error in loading object '/adm/daemons/logind'
+
+程序：obj/login.c 第 12 行
+物件：/obj/login#422
+呼叫来自：obj/login.c 的 logon() 第 12 行，物件： obj/login#422
+调用参数：logon()
+局部变量：
+this_player: obj/login#422
+previous_object(0): obj/login#422
++----------------------------------------------------------------------+
+
+
+执行时段错误：*Error in loading object '/adm/daemons/logind'
+
+程序：obj/login.c 第 12 行
+物件：/obj/login#484
+呼叫来自：obj/login.c 的 logon() 第 12 行，物件： obj/login#484
+调用参数：logon()
+局部变量：
+this_player: obj/login#484
+previous_object(0): obj/login#484
++----------------------------------------------------------------------+
+
+
+执行时段错误：*Error in loading object '/adm/daemons/logind'
+
+程序：obj/login.c 第 12 行
+物件：/obj/login#524
+呼叫来自：obj/login.c 的 logon() 第 12 行，物件： obj/login#524
+调用参数：logon()
+局部变量：
+this_player: obj/login#524
+previous_object(0): obj/login#524
++----------------------------------------------------------------------+
+
+
+执行时段错误：*Error in loading object '/adm/daemons/logind'
+
+程序：obj/login.c 第 12 行
+物件：/obj/login#642
+呼叫来自：obj/login.c 的 logon() 第 12 行，物件： obj/login#642
+调用参数：logon()
+局部变量：
+this_player: obj/login#642
+previous_object(0): obj/login#642
++----------------------------------------------------------------------+
+
+Initializing internal tables....
+
+<---梦幻西游: MudOs v22pre11 (by wwj,Jan  1 1999) startup on Microsoft Windows NT at Sat Feb 03 17:43:48 2018
+
+using config file: D:\app\mhxy2002\config.mhxy
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+错误讯息被拦截：
+执行时段错误：*Error in loading object '/adm/daemons/logind'
+
+程序：adm/obj/master.c 第 121 行
+物件：/adm/obj/master
+呼叫来自：adm/obj/master.c 的 preload() 第 121 行，物件： adm/obj/master
+调用参数：preload("/adm/daemons/logind")
+局部变量：1517651029, NULL
+呼叫来自：adm/obj/master.c 的 CATCH() 第 121 行，物件： adm/obj/master
+调用参数：CATCH()
+局部变量：
+previous_object(0): adm/obj/master
++----------------------------------------------------------------------+
+
+Initializations complete.
+
+Accepting connections on port 6666.
+Initializing internal tables....
+
+<---梦幻西游: MudOs v22pre11 (by wwj,Jan  1 1999) startup on Microsoft Windows NT at Sat Feb 03 17:46:52 2018
+
+using config file: D:\app\mhxy2002\config.mhxy
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 6666.
+Initializing internal tables....
+
+<---梦幻西游: MudOs v22pre11 (by wwj,Jan  1 1999) startup on Microsoft Windows NT at Sat Feb 03 17:47:04 2018
+
+using config file: D:\app\mhxy2002\config.mhxy
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 6666.
+Initializing internal tables....
+
+<---梦幻西游: MudOs v22pre11 (by wwj,Jan  1 1999) startup on Microsoft Windows NT at Sat Feb 03 17:50:46 2018
+
+using config file: D:\app\mhxy2002\config.mhxy
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 6666.
+Initializing internal tables....
+
+<---梦幻西游: MudOs v22pre11 (by wwj,Jan  1 1999) startup on Microsoft Windows NT at Sat Feb 03 17:51:50 2018
+
+using config file: D:\app\mhxy2002\config.mhxy
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+错误讯息被拦截：
+执行时段错误：*Error in loading object '/adm/daemons/logind'
+
+程序：adm/obj/master.c 第 121 行
+物件：/adm/obj/master
+呼叫来自：adm/obj/master.c 的 preload() 第 121 行，物件： adm/obj/master
+调用参数：preload("/adm/daemons/logind")
+局部变量：1517651512, NULL
+呼叫来自：adm/obj/master.c 的 CATCH() 第 121 行，物件： adm/obj/master
+调用参数：CATCH()
+局部变量：
+previous_object(0): adm/obj/master
++----------------------------------------------------------------------+
+
+Initializations complete.
+
+Accepting connections on port 6666.
+
+执行时段错误：*Error in loading object '/adm/daemons/logind'
+
+程序：obj/login.c 第 12 行
+物件：/obj/login#471
+呼叫来自：obj/login.c 的 logon() 第 12 行，物件： obj/login#471
+调用参数：logon()
+局部变量：
+this_player: obj/login#471
+previous_object(0): obj/login#471
++----------------------------------------------------------------------+
+
+Initializing internal tables....
+
+<---梦幻西游: MudOs v22pre11 (by wwj,Jan  1 1999) startup on Microsoft Windows NT at Sat Feb 03 17:52:42 2018
+
+using config file: D:\app\mhxy2002\config.mhxy
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 6666.
+Initializing internal tables....
+
+<---梦幻西游: MudOs v22pre11 (by wwj,Jan  1 1999) startup on Microsoft Windows NT at Sat Feb 03 17:53:43 2018
+
+using config file: D:\app\mhxy2002\config.mhxy
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 6666.
+Initializing internal tables....
+
+<---梦幻西游: MudOs v22pre11 (by wwj,Jan  1 1999) startup on Microsoft Windows NT at Sat Feb 03 17:54:31 2018
+
+using config file: D:\app\mhxy2002\config.mhxy
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 6666.
+Initializing internal tables....
+
+<---梦幻西游: MudOs v22pre11 (by wwj,Jan  1 1999) startup on Microsoft Windows NT at Sat Feb 03 17:57:08 2018
+
+using config file: D:\app\mhxy2002\config.mhxy
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 6666.
+Initializing internal tables....
+
+<---梦幻西游: MudOs v22pre11 (by wwj,Jan  1 1999) startup on Microsoft Windows NT at Sat Feb 03 18:10:09 2018
+
+using config file: D:\app\mhxy2002\config.mhxy
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+错误讯息被拦截：
+执行时段错误：*Error in loading object '/adm/daemons/logind'
+
+程序：adm/obj/master.c 第 121 行
+物件：/adm/obj/master
+呼叫来自：adm/obj/master.c 的 preload() 第 121 行，物件： adm/obj/master
+调用参数：preload("/adm/daemons/logind")
+局部变量：1517652610, NULL
+呼叫来自：adm/obj/master.c 的 CATCH() 第 121 行，物件： adm/obj/master
+调用参数：CATCH()
+局部变量：
+previous_object(0): adm/obj/master
++----------------------------------------------------------------------+
+
+Initializations complete.
+
+Accepting connections on port 6666.
+
+执行时段错误：*Error in loading object '/adm/daemons/logind'
+
+程序：obj/login.c 第 12 行
+物件：/obj/login#352
+呼叫来自：obj/login.c 的 logon() 第 12 行，物件： obj/login#352
+调用参数：logon()
+局部变量：
+this_player: obj/login#352
+previous_object(0): obj/login#352
++----------------------------------------------------------------------+
+
+Initializing internal tables....
+
+<---梦幻西游: MudOs v22pre11 (by wwj,Jan  1 1999) startup on Microsoft Windows NT at Sat Feb 03 18:13:58 2018
+
+using config file: D:\app\mhxy2002\config.mhxy
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+错误讯息被拦截：
+执行时段错误：*Error in loading object '/adm/daemons/logind'
+
+程序：adm/obj/master.c 第 121 行
+物件：/adm/obj/master
+呼叫来自：adm/obj/master.c 的 preload() 第 121 行，物件： adm/obj/master
+调用参数：preload("/adm/daemons/logind")
+局部变量：1517652839, NULL
+呼叫来自：adm/obj/master.c 的 CATCH() 第 121 行，物件： adm/obj/master
+调用参数：CATCH()
+局部变量：
+previous_object(0): adm/obj/master
++----------------------------------------------------------------------+
+
+Initializations complete.
+
+Accepting connections on port 6666.
+Initializing internal tables....
+
+<---梦幻西游: MudOs v22pre11 (by wwj,Jan  1 1999) startup on Microsoft Windows NT at Sat Feb 03 18:16:40 2018
+
+using config file: D:\app\mhxy2002\config.mhxy
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+错误讯息被拦截：
+执行时段错误：*Error in loading object '/adm/daemons/logind'
+
+程序：adm/obj/master.c 第 121 行
+物件：/adm/obj/master
+呼叫来自：adm/obj/master.c 的 preload() 第 121 行，物件： adm/obj/master
+调用参数：preload("/adm/daemons/logind")
+局部变量：1517653001, NULL
+呼叫来自：adm/obj/master.c 的 CATCH() 第 121 行，物件： adm/obj/master
+调用参数：CATCH()
+局部变量：
+previous_object(0): adm/obj/master
++----------------------------------------------------------------------+
+
+Initializations complete.
+
+Accepting connections on port 6666.
+
+执行时段错误：*call_other() couldn't find object
+
+程序：std/char/npc.c 第 15 行
+物件：/d/city/npc/jiajiang
+呼叫来自：adm/daemons/baoshi.c 的 choose_baosi() 第 137 行，物件： adm/daemons/baoshi
+调用参数：choose_baosi()
+局部变量：NULL, 1, NULL, NULL, 1, NULL, "绿", NULL, NULL
+呼叫来自：adm/daemons/baoshi.c 的 random_place() 第 156 行，物件： adm/daemons/baoshi
+调用参数：random_place("/d/city")
+局部变量：46, 17, 0, 0, ({ ... }), NULL, "cha boshi"
+呼叫来自：d/city/npc/jiajiang.c 的 create() 第 29 行，物件： d/city/npc/jiajiang ("校尉")
+调用参数：create()
+局部变量：
+呼叫来自：std/char/npc.c 的 carry_object() 第 15 行，物件： d/city/npc/jiajiang ("校尉")
+调用参数：carry_object("/d/city/npc/obj/changqiang")
+局部变量：NULL
+this_player: d/city/npc/jiajiang ("校尉")
+previous_object(0): d/city/npc/jiajiang ("校尉")
+previous_object(1): adm/daemons/baoshi
++----------------------------------------------------------------------+
+
+Initializing internal tables....
+
+<---梦幻西游: MudOs v22pre11 (by wwj,Jan  1 1999) startup on Microsoft Windows NT at Sat Feb 03 18:20:16 2018
+
+using config file: D:\app\mhxy2002\config.mhxy
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+错误讯息被拦截：
+执行时段错误：*Error in loading object '/adm/daemons/logind'
+
+程序：adm/obj/master.c 第 121 行
+物件：/adm/obj/master
+呼叫来自：adm/obj/master.c 的 preload() 第 121 行，物件： adm/obj/master
+调用参数：preload("/adm/daemons/logind")
+局部变量：1517653217, NULL
+呼叫来自：adm/obj/master.c 的 CATCH() 第 121 行，物件： adm/obj/master
+调用参数：CATCH()
+局部变量：
+previous_object(0): adm/obj/master
++----------------------------------------------------------------------+
+
+Initializations complete.
+
+Accepting connections on port 6666.
+
+执行时段错误：*Error in loading object '/adm/daemons/logind'
+
+程序：obj/login.c 第 12 行
+物件：/obj/login#416
+呼叫来自：obj/login.c 的 logon() 第 12 行，物件： obj/login#416
+调用参数：logon()
+局部变量：
+this_player: obj/login#416
+previous_object(0): obj/login#416
++----------------------------------------------------------------------+
+
+Initializing internal tables....
+
+<---梦幻西游: MudOs v22pre11 (by wwj,Jan  1 1999) startup on Microsoft Windows NT at Sat Feb 03 18:22:14 2018
+
+using config file: D:\app\mhxy2002\config.mhxy
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 6666.
+
+执行时段错误：*call_other() couldn't find object
+
+程序：std/char/npc.c 第 15 行
+物件：/d/qujing/wudidong/npc/yaomo
+呼叫来自：adm/daemons/baoshi.c 的 choose_baosi() 第 137 行，物件： adm/daemons/baoshi
+调用参数：choose_baosi()
+局部变量：NULL, 37, NULL, NULL, 1, NULL, "绿", NULL, NULL
+呼叫来自：adm/daemons/baoshi.c 的 random_place() 第 156 行，物件： adm/daemons/baoshi
+调用参数：random_place("/d/qujing/wudidong")
+局部变量：27, 7, 0, 0, ({ ... }), NULL, "yuan qing"
+呼叫来自：d/qujing/wudidong/npc/yaomo.c 的 create() 第 31 行，物件： d/qujing/wudidong/npc/yaomo ("巡山妖")
+调用参数：create()
+局部变量：
+呼叫来自：std/char/npc.c 的 carry_object() 第 15 行，物件： d/qujing/wudidong/npc/yaomo ("巡山妖")
+调用参数：carry_object("/u/mes/obj/blade")
+局部变量：NULL
+this_player: d/qujing/wudidong/npc/yaomo ("巡山妖")
+previous_object(0): d/qujing/wudidong/npc/yaomo ("巡山妖")
+previous_object(1): adm/daemons/baoshi
++----------------------------------------------------------------------+
+
+Initializing internal tables....
+
+<---梦幻西游: MudOs v22pre11 (by wwj,Jan  1 1999) startup on Microsoft Windows NT at Sat Feb 03 18:23:50 2018
+
+using config file: D:\app\mhxy2002\config.mhxy
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 6666.
+Initializing internal tables....
+
+<---梦幻西游: MudOs v22pre11 (by wwj,Jan  1 1999) startup on Microsoft Windows NT at Mon Feb 05 09:53:42 2018
+
+using config file: D:\app\mhxy2002\config.mhxy
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 6666.
+Initializing internal tables....
+
+<---梦幻西游: MudOs v22pre11 (by wwj,Jan  1 1999) startup on Microsoft Windows NT at Mon Feb 05 09:56:26 2018
+
+using config file: D:\app\mhxy2002\config.mhxy
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 6666.
+Initializing internal tables....
+
+<---梦幻西游: MudOs v22pre11 (by wwj,Jan  1 1999) startup on Microsoft Windows NT at Mon Feb 05 09:57:29 2018
+
+using config file: D:\app\mhxy2002\config.mhxy
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 6666.
+Initializing internal tables....
+
+<---梦幻西游: MudOs v22pre11 (by wwj,Jan  1 1999) startup on Microsoft Windows NT at Mon Feb 05 10:07:33 2018
+
+using config file: D:\app\mhxy2002\config.mhxy
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 6666.
+Initializing internal tables....
+
+<---梦幻西游: MudOs v22pre11 (by wwj,Jan  1 1999) startup on Microsoft Windows NT at Mon Feb 05 10:13:08 2018
+
+using config file: D:\app\mhxy2002\config.mhxy
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 6666.
+
+执行时段错误：*Error in loading object '/d/kaifeng/npc/quest_ak'
+
+程序：adm/daemons/baoshi.c 第 156 行
+物件：/adm/daemons/baoshi
+呼叫来自：adm/daemons/baoshi.c 的 choose_baosi() 第 137 行，物件： adm/daemons/baoshi
+调用参数：choose_baosi()
+局部变量：NULL, 4, NULL, NULL, 0, NULL, "蓝", NULL, NULL
+呼叫来自：adm/daemons/baoshi.c 的 random_place() 第 156 行，物件： adm/daemons/baoshi
+调用参数：random_place("/d/kaifeng")
+局部变量：14, 7, 0, 0, ({ ... }), NULL, "bing shi"
+previous_object(0): adm/daemons/baoshi
++----------------------------------------------------------------------+
+
+
+执行时段错误：*Bad argument 1 to exec()
+
+程序：adm/daemons/logind.c 第 1039 行
+物件：/adm/daemons/logind
+呼叫来自：feature/command.c 的 command_hook() 第 83 行，物件： obj/user#3058 ("你好")
+调用参数：command_hook("admin")
+局部变量："fs", "/cmds/usr/fs"
+呼叫来自：cmds/usr/fs.c 的 main() 第 15 行，物件： cmds/usr/fs
+调用参数：main("admin")
+局部变量：
+呼叫来自：adm/daemons/logind.c 的 enter_world() 第 1039 行，物件： adm/daemons/logind
+调用参数：enter_world(1)
+局部变量：NULL, NULL, NULL, "", NULL, NULL, NULL, NULL, NULL, NULL, NULL
+this_player: obj/user#3058 ("你好")
+          <- d/city/kezhan
+previous_object(0): adm/daemons/logind
+previous_object(1): cmds/usr/fs
+previous_object(2): obj/user#3058 ("你好")
++----------------------------------------------------------------------+
+
+
+执行时段错误：*你(admin)不能摧毁其他的使用者。
+
+程序：feature/move.c 第 259 行
+物件：/obj/user#3058
+呼叫来自：obj/user.c 的 do_net_dead() 第 293 行，物件： obj/user#2539 ("灌水员")
+调用参数：do_net_dead()
+局部变量：
+呼叫来自：adm/obj/simul_efun.c 的 destruct() 第 95 行，物件： adm/obj/simul_efun
+调用参数：destruct()
+局部变量：
+呼叫来自：feature/move.c 的 remove() 第 259 行，物件： obj/user#3058 ("你好")
+调用参数：remove("admin")
+局部变量：NULL
+this_player: obj/user#2539 ("灌水员")
+          <- d/city/zhuque-s1
+previous_object(0): obj/user#3058 ("你好")
+previous_object(1): adm/obj/simul_efun
+previous_object(2): obj/user#2539 ("灌水员")
++----------------------------------------------------------------------+
+
+
+执行时段错误：*Bad argument 1 to present()
+Expected: string or object Got: 0.
+
+程序：obj/npc/jiashen.c 第 133 行
+物件：/obj/npc/jiashen#3339
+呼叫来自：std/char.c 的 heart_beat() 第 124 行，物件： obj/npc/jiashen#3339 ("假身")
+调用参数：heart_beat()
+局部变量：NULL, 0, ([ ... ]), NULL
+呼叫来自：obj/npc/jiashen.c 的 heal_up() 第 133 行，物件： obj/npc/jiashen#3339 ("假身")
+调用参数：heal_up()
+局部变量：NULL
+this_player: obj/npc/jiashen#3339 ("假身")
+          <- d/city/dangpu
+previous_object(0): obj/npc/jiashen#3339 ("假身")
++----------------------------------------------------------------------+
+
+Heart beat in obj/npc/jiashen#3339 turned off.
+Initializing internal tables....
+
+<---梦幻西游: MudOs v22pre11 (by wwj,Jan  1 1999) startup on Microsoft Windows NT at Mon Feb 05 12:39:58 2018
+
+using config file: D:\app\mhxy2002\config.mhxy
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 6666.
+
+执行时段错误：*Error in loading object '/d/kaifeng/npc/quest_ms'
+
+程序：adm/daemons/baoshi.c 第 156 行
+物件：/adm/daemons/baoshi
+呼叫来自：adm/daemons/baoshi.c 的 choose_baosi() 第 137 行，物件： adm/daemons/baoshi
+调用参数：choose_baosi()
+局部变量：NULL, 4, NULL, NULL, 2, NULL, "黄", NULL, NULL
+呼叫来自：adm/daemons/baoshi.c 的 random_place() 第 156 行，物件： adm/daemons/baoshi
+调用参数：random_place("/d/kaifeng")
+局部变量：21, 0, NULL, NULL, ({ ... }), NULL, NULL
+previous_object(0): adm/daemons/baoshi
++----------------------------------------------------------------------+
+
+Initializing internal tables....
+
+<---梦幻西游: MudOs v22pre11 (by wwj,Jan  1 1999) startup on Microsoft Windows NT at Mon Feb 05 13:37:16 2018
+
+using config file: D:\app\mhxy2002\config.mhxy
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: 由于目标计算机积极拒绝，无法连接。
+
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 6666.
+Initializing internal tables....

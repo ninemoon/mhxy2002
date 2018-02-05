@@ -1570,3 +1570,83 @@ d/city/silao.c line 62: Warning: Value of conditional expression is unused
 u/valen/guestroom.c line 21: parse error
 u/valen/guestroom.c line 21: parse error
 d/city/obj/jia.c line 147: Invalid argument types to '+' ( string vs object )
+d/city/obj/jia.c line 147: Invalid argument types to '+' ( string vs object )
+d/city/obj/jia.c line 147: Invalid argument types to '+' ( string vs object )
+d/city/obj/jia.c line 147: Invalid argument types to '+' ( string vs object )
+d/city/obj/jia.c line 147: Invalid argument types to '+' ( string vs object )
+d/city/obj/jia.c line 147: Invalid argument types to '+' ( string vs object )
+d/city/obj/jia.c line 147: Invalid argument types to '+' ( string vs object )
+adm/daemons/logind.c line 533: Reserved type name unexpected.
+adm/daemons/logind.c line 533: parse error
+adm/daemons/logind.c line 540: Undefined variable 'ob'
+adm/daemons/logind.c line 540: Illegal LHS
+adm/daemons/logind.c line 542: Undefined variable 'id_count'
+adm/daemons/logind.c line 550: Undefined variable 'arg'
+adm/daemons/logind.c line 533: Reserved type name unexpected.
+adm/daemons/logind.c line 533: parse error
+adm/daemons/logind.c line 540: Undefined variable 'ob'
+adm/daemons/logind.c line 540: Illegal LHS
+adm/daemons/logind.c line 542: Undefined variable 'id_count'
+adm/daemons/logind.c line 550: Undefined variable 'arg'
+adm/daemons/logind.c line 533: Reserved type name unexpected.
+adm/daemons/logind.c line 533: parse error
+adm/daemons/logind.c line 540: Undefined variable 'ob'
+adm/daemons/logind.c line 540: Illegal LHS
+adm/daemons/logind.c line 542: Undefined variable 'id_count'
+adm/daemons/logind.c line 550: Undefined variable 'arg'
+adm/daemons/logind.c line 533: Reserved type name unexpected.
+adm/daemons/logind.c line 533: parse error
+adm/daemons/logind.c line 540: Undefined variable 'ob'
+adm/daemons/logind.c line 540: Illegal LHS
+adm/daemons/logind.c line 542: Undefined variable 'id_count'
+adm/daemons/logind.c line 550: Undefined variable 'arg'
+adm/daemons/logind.c line 533: Reserved type name unexpected.
+adm/daemons/logind.c line 533: parse error
+adm/daemons/logind.c line 540: Undefined variable 'ob'
+adm/daemons/logind.c line 540: Illegal LHS
+adm/daemons/logind.c line 542: Undefined variable 'id_count'
+adm/daemons/logind.c line 550: Undefined variable 'arg'
+adm/daemons/logind.c line 533: Reserved type name unexpected.
+adm/daemons/logind.c line 533: parse error
+adm/daemons/logind.c line 540: Undefined variable 'ob'
+adm/daemons/logind.c line 540: Illegal LHS
+adm/daemons/logind.c line 542: Undefined variable 'id_count'
+adm/daemons/logind.c line 550: Undefined variable 'arg'
+adm/daemons/logind.c line 533: Reserved type name unexpected.
+adm/daemons/logind.c line 533: parse error
+adm/daemons/logind.c line 540: Undefined variable 'ob'
+adm/daemons/logind.c line 540: Illegal LHS
+adm/daemons/logind.c line 542: Undefined variable 'id_count'
+adm/daemons/logind.c line 550: Undefined variable 'arg'
+adm/daemons/logind.c line 533: Reserved type name unexpected.
+adm/daemons/logind.c line 533: parse error
+adm/daemons/logind.c line 540: Undefined variable 'ob'
+adm/daemons/logind.c line 540: Illegal LHS
+adm/daemons/logind.c line 542: Undefined variable 'id_count'
+adm/daemons/logind.c line 550: Undefined variable 'arg'
+adm/daemons/logind.c line 523: Reserved type name unexpected.
+adm/daemons/logind.c line 523: parse error
+adm/daemons/logind.c line 530: Undefined variable 'ob'
+adm/daemons/logind.c line 530: Illegal LHS
+adm/daemons/logind.c line 532: Undefined variable 'id_count'
+adm/daemons/logind.c line 540: Undefined variable 'arg'
+adm/daemons/logind.c line 523: Reserved type name unexpected.
+adm/daemons/logind.c line 523: parse error
+adm/daemons/logind.c line 530: Undefined variable 'ob'
+adm/daemons/logind.c line 530: Illegal LHS
+adm/daemons/logind.c line 532: Undefined variable 'id_count'
+adm/daemons/logind.c line 540: Undefined variable 'arg'
+adm/daemons/logind.c line 529: Undefined variable 'id'
+adm/daemons/logind.c line 529: Undefined variable 'id'
+adm/daemons/logind.c line 529: Undefined variable 'id'
+adm/daemons/logind.c line 529: Undefined variable 'id'
+adm/daemons/logind.c line 532: Undefined variable 'id'
+adm/daemons/logind.c line 532: Undefined variable 'id'
+d/kaifeng/npc/quest.c line 51: No such inherited function ::setup
+d/kaifeng/npc/quest.c line 53: Undefined function query
+d/kaifeng/npc/quest.c line 53: Bad assignment ( string vs unknown ).
+d/kaifeng/npc/quest.c line 242: Type mismatch ( string vs unknown ) when initializing id
+d/kaifeng/npc/quest.c line 51: No such inherited function ::setup
+d/kaifeng/npc/quest.c line 53: Undefined function query
+d/kaifeng/npc/quest.c line 53: Bad assignment ( string vs unknown ).
+d/kaifeng/npc/quest.c line 242: Type mismatch ( string vs unknown ) when initializing id
